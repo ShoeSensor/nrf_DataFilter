@@ -35,20 +35,16 @@ typedef struct {
 vector_t X;
 vector_t Z;
 
-
 static uint16_t calcDistance() {
 	Z.prevDis = Z.curDis;
 	Z.curDis = (timeDiff * Z.curSpeed) + Z.prevDis;
 	return Z.curDis;
 }
 
-void calcInit(uint16_t freq) {
-	timeDiff = 1 / freq;
-}
-
 void setTimeDiff(uint16_t freq) {
 	timeDiff = 1 / freq;
 }
+
 int16_t calcSpeed(int16_t Xacc, int16_t Zacc, int16_t *distance) {
 	X.curAcc = Xacc;
 	Z.curAcc = Zacc;

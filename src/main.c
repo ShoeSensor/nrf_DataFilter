@@ -15,22 +15,31 @@
  */
 
 #include "datafilter.h"
-
+#include <stdbool.h>
+#include "serial.h"
 int16_t XGforce;
 int16_t ZGforce;
 
-uint16_t freq;
+int16_t maxSize = 20;
+/*
+ int16_t maxSize = 20;
+ char *buffer;
+ uint16_t freq;
+ typedef struct {
+ const char* devFile;
+ uint32_t baudrate;
+ bool blocking;
+ } serialConfig_t;
+ */
 
 int16_t Xacc;
 int16_t Zacc;
 
 int16_t distance;
 int16_t speed;
-
-
+int16_t freq;
 
 int main(void) {
-	calcInit(freq);
 	setTimeDiff(freq);
 
 	while (1) {
