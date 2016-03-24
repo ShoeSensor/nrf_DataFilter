@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>datafilter</name>
+	<name>nrf_datafilter</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -20,7 +20,41 @@
 	</buildSpec>
 	<natures>
 		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>org.eclipse.cdt.core.ccnature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>os</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>uart</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>os/os_thread.h</name>
+			<type>1</type>
+			<location>/home/bart/work/apps/nrf_freertos/include/os_thread.h</location>
+		</link>
+		<link>
+			<name>os/os_timer.h</name>
+			<type>1</type>
+			<location>/home/bart/work/apps/nrf_freertos/include/os_timer.h</location>
+		</link>
+		<link>
+			<name>uart/nrf_uartDriver.h</name>
+			<type>1</type>
+			<locationURI>SDK_ROOT/apps/nrf_uart/include/nrf_uartDriver.h</locationURI>
+		</link>
+	</linkedResources>
+	<variableList>
+		<variable>
+			<name>SDK_ROOT</name>
+			<value>file:/home/bart/work</value>
+		</variable>
+	</variableList>
 </projectDescription>

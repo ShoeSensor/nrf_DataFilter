@@ -1,0 +1,3229 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+                              /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o (exit)
+/home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+                              /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+                              /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o (__libc_init_array)
+/home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+                              /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o (memset)
+/home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+                              /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o) (_exit)
+/home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(addsf3.o)
+                              _build/datafilter.o (__aeabi_fadd)
+/home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(mulsf3.o)
+                              _build/datafilter.o (__aeabi_fmul)
+/home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(fixsfsi.o)
+                              _build/datafilter.o (__aeabi_f2iz)
+/home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(floatsisf.o)
+                              _build/datafilter.o (__aeabi_i2f)
+/home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(muldf3.o)
+                              _build/main.o (__aeabi_dmul)
+/home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(fixdfsi.o)
+                              _build/main.o (__aeabi_d2iz)
+/home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(floatsidf.o)
+                              _build/main.o (__aeabi_i2d)
+/home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_clzsi2.o)
+                              /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(addsf3.o) (__clzsi2)
+/home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-calloc.o)
+                              _build/main.o (calloc)
+/home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o)
+                              _build/os_timer.o (free)
+/home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
+                              _build/queue.o (memcpy)
+/home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-callocr.o)
+                              /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-calloc.o) (_calloc_r)
+/home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+                              /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o) (_free_r)
+/home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+                              /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o) (_malloc_r)
+/home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+                              /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
+                              _build/main.o (strlen)
+/home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+                              /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o) (errno)
+/home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(sbrk.o)
+                              /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o) (_sbrk)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+XGforce             0x2               _build/main.o
+freq                0x2               _build/main.o
+threadHandle        0x4               _build/main.o
+m_p_file_name       0x4               _build/app_error.o
+xQueueRegistry      0x10              _build/queue.o
+distance            0x2               _build/main.o
+__stdin             0x68              _build/retarget.o
+uartBuf             0x4               _build/main.o
+m_error_code        0x4               _build/app_error.o
+Z                   0xa               _build/datafilter.o
+speed               0x2               _build/main.o
+m_line_num          0x4               _build/app_error.o
+__stdout            0x68              _build/retarget.o
+Zacc                0x2               _build/main.o
+Xacc                0x2               _build/main.o
+ZGforce             0x2               _build/main.o
+X                   0xa               _build/datafilter.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crti.o
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crti.o
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crti.o
+ .data          0x00000000        0x4 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.extab     0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .text          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .text          0x00000000        0x0 _build/main.o
+ .data          0x00000000        0x0 _build/main.o
+ .bss           0x00000000        0x0 _build/main.o
+ .data.maxSize  0x00000000        0x2 _build/main.o
+ .group         0x00000000        0x8 _build/datafilter.o
+ .group         0x00000000        0x8 _build/datafilter.o
+ .group         0x00000000        0x8 _build/datafilter.o
+ .group         0x00000000        0x8 _build/datafilter.o
+ .group         0x00000000        0x8 _build/datafilter.o
+ .group         0x00000000        0x8 _build/datafilter.o
+ .group         0x00000000        0x8 _build/datafilter.o
+ .text          0x00000000        0x0 _build/datafilter.o
+ .data          0x00000000        0x0 _build/datafilter.o
+ .bss           0x00000000        0x0 _build/datafilter.o
+ .debug_macro   0x00000000      0x838 _build/datafilter.o
+ .debug_macro   0x00000000       0x22 _build/datafilter.o
+ .debug_macro   0x00000000       0x22 _build/datafilter.o
+ .debug_macro   0x00000000       0x44 _build/datafilter.o
+ .debug_macro   0x00000000       0xfd _build/datafilter.o
+ .debug_macro   0x00000000       0x22 _build/datafilter.o
+ .debug_macro   0x00000000      0x1df _build/datafilter.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_timer.o
+ .text          0x00000000        0x0 _build/os_timer.o
+ .data          0x00000000        0x0 _build/os_timer.o
+ .bss           0x00000000        0x0 _build/os_timer.o
+ .text.os_timerGetMs
+                0x00000000       0x10 _build/os_timer.o
+ .text.os_timerGetElapsed
+                0x00000000       0x1c _build/os_timer.o
+ .text.os_timerIsElapsed
+                0x00000000       0x28 _build/os_timer.o
+ .text.os_timerTaskNew
+                0x00000000       0xb4 _build/os_timer.o
+ .text.os_timerTaskStop
+                0x00000000       0x2c _build/os_timer.o
+ .text.os_timerTaskRestart
+                0x00000000       0x30 _build/os_timer.o
+ .text.os_timerTaskDelete
+                0x00000000       0x50 _build/os_timer.o
+ .debug_macro   0x00000000      0x838 _build/os_timer.o
+ .debug_macro   0x00000000       0x58 _build/os_timer.o
+ .debug_macro   0x00000000       0x22 _build/os_timer.o
+ .debug_macro   0x00000000       0x35 _build/os_timer.o
+ .debug_macro   0x00000000       0x9c _build/os_timer.o
+ .debug_macro   0x00000000       0x16 _build/os_timer.o
+ .debug_macro   0x00000000      0x10e _build/os_timer.o
+ .debug_macro   0x00000000       0x86 _build/os_timer.o
+ .debug_macro   0x00000000       0x52 _build/os_timer.o
+ .debug_macro   0x00000000       0x16 _build/os_timer.o
+ .debug_macro   0x00000000       0x43 _build/os_timer.o
+ .debug_macro   0x00000000      0x187 _build/os_timer.o
+ .debug_macro   0x00000000      0x34c _build/os_timer.o
+ .debug_macro   0x00000000       0x16 _build/os_timer.o
+ .debug_macro   0x00000000       0x29 _build/os_timer.o
+ .debug_macro   0x00000000       0xfd _build/os_timer.o
+ .debug_macro   0x00000000       0x22 _build/os_timer.o
+ .debug_macro   0x00000000      0x1df _build/os_timer.o
+ .debug_macro   0x00000000       0x22 _build/os_timer.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .group         0x00000000        0x8 _build/os_thread.o
+ .text          0x00000000        0x0 _build/os_thread.o
+ .data          0x00000000        0x0 _build/os_thread.o
+ .bss           0x00000000        0x0 _build/os_thread.o
+ .text.os_threadStop
+                0x00000000       0x1c _build/os_thread.o
+ .text.os_threadPause
+                0x00000000       0x24 _build/os_thread.o
+ .text.os_threadResume
+                0x00000000       0x24 _build/os_thread.o
+ .text.os_threadIsRunning
+                0x00000000       0x24 _build/os_thread.o
+ .text.os_threadIsPaused
+                0x00000000       0x24 _build/os_thread.o
+ .text.os_threadExit
+                0x00000000       0x20 _build/os_thread.o
+ .text.os_threadDelete
+                0x00000000       0x24 _build/os_thread.o
+ .debug_macro   0x00000000      0x838 _build/os_thread.o
+ .debug_macro   0x00000000       0x22 _build/os_thread.o
+ .debug_macro   0x00000000       0x22 _build/os_thread.o
+ .debug_macro   0x00000000       0x44 _build/os_thread.o
+ .debug_macro   0x00000000       0xfd _build/os_thread.o
+ .debug_macro   0x00000000       0x22 _build/os_thread.o
+ .debug_macro   0x00000000      0x1df _build/os_thread.o
+ .debug_macro   0x00000000       0x58 _build/os_thread.o
+ .debug_macro   0x00000000       0x35 _build/os_thread.o
+ .debug_macro   0x00000000       0x9c _build/os_thread.o
+ .debug_macro   0x00000000       0x16 _build/os_thread.o
+ .debug_macro   0x00000000      0x10e _build/os_thread.o
+ .debug_macro   0x00000000       0x86 _build/os_thread.o
+ .debug_macro   0x00000000       0x52 _build/os_thread.o
+ .debug_macro   0x00000000       0x16 _build/os_thread.o
+ .debug_macro   0x00000000       0x43 _build/os_thread.o
+ .debug_macro   0x00000000      0x187 _build/os_thread.o
+ .debug_macro   0x00000000      0x34c _build/os_thread.o
+ .debug_macro   0x00000000       0x16 _build/os_thread.o
+ .debug_macro   0x00000000       0x29 _build/os_thread.o
+ .debug_macro   0x00000000      0x19c _build/os_thread.o
+ .debug_macro   0x00000000       0x22 _build/os_thread.o
+ .debug_macro   0x00000000       0x3a _build/os_thread.o
+ .debug_macro   0x00000000       0x1f _build/os_thread.o
+ .debug_macro   0x00000000      0x242 _build/os_thread.o
+ .debug_macro   0x00000000      0x1d2 _build/os_thread.o
+ .debug_macro   0x00000000     0x745a _build/os_thread.o
+ .debug_macro   0x00000000      0x976 _build/os_thread.o
+ .debug_macro   0x00000000       0x1c _build/os_thread.o
+ .debug_macro   0x00000000       0x5e _build/os_thread.o
+ .debug_macro   0x00000000       0x3d _build/os_thread.o
+ .debug_macro   0x00000000      0x118 _build/os_thread.o
+ .debug_macro   0x00000000       0xbc _build/os_thread.o
+ .debug_macro   0x00000000       0x10 _build/os_thread.o
+ .debug_macro   0x00000000       0x1f _build/os_thread.o
+ .debug_macro   0x00000000      0x322 _build/os_thread.o
+ .debug_macro   0x00000000       0xc0 _build/os_thread.o
+ .debug_macro   0x00000000       0x8c _build/os_thread.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/nrf_uartDriver.o
+ .text          0x00000000        0x0 _build/nrf_uartDriver.o
+ .data          0x00000000        0x0 _build/nrf_uartDriver.o
+ .bss           0x00000000        0x0 _build/nrf_uartDriver.o
+ .text.uart_read
+                0x00000000       0x44 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000      0x838 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0x22 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0x22 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0x44 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0xfd _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0x22 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000      0x1df _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0x58 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0x35 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0x9c _build/nrf_uartDriver.o
+ .debug_macro   0x00000000      0x34c _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0x10 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0x52 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0x16 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0x43 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000      0x187 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0x10 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0x22 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0x3a _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0x10 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0x40 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0x65 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0x16 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000      0x197 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0x16 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0x35 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0x16 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0x29 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0x22 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0x3a _build/nrf_uartDriver.o
+ .debug_macro   0x00000000       0x1f _build/nrf_uartDriver.o
+ .debug_macro   0x00000000      0x242 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000      0x1d2 _build/nrf_uartDriver.o
+ .debug_macro   0x00000000     0x745a _build/nrf_uartDriver.o
+ .debug_macro   0x00000000      0x976 _build/nrf_uartDriver.o
+ .group         0x00000000        0x8 _build/system_nrf51.o
+ .group         0x00000000        0x8 _build/system_nrf51.o
+ .group         0x00000000        0x8 _build/system_nrf51.o
+ .group         0x00000000        0x8 _build/system_nrf51.o
+ .group         0x00000000        0x8 _build/system_nrf51.o
+ .group         0x00000000        0x8 _build/system_nrf51.o
+ .group         0x00000000        0x8 _build/system_nrf51.o
+ .group         0x00000000        0x8 _build/system_nrf51.o
+ .group         0x00000000        0x8 _build/system_nrf51.o
+ .group         0x00000000        0x8 _build/system_nrf51.o
+ .group         0x00000000        0x8 _build/system_nrf51.o
+ .group         0x00000000        0x8 _build/system_nrf51.o
+ .group         0x00000000        0x8 _build/system_nrf51.o
+ .group         0x00000000        0x8 _build/system_nrf51.o
+ .group         0x00000000        0x8 _build/system_nrf51.o
+ .text          0x00000000        0x0 _build/system_nrf51.o
+ .data          0x00000000        0x0 _build/system_nrf51.o
+ .bss           0x00000000        0x0 _build/system_nrf51.o
+ .data.SystemCoreClock
+                0x00000000        0x4 _build/system_nrf51.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0x18 _build/system_nrf51.o
+ .debug_macro   0x00000000      0x838 _build/system_nrf51.o
+ .debug_macro   0x00000000       0x22 _build/system_nrf51.o
+ .debug_macro   0x00000000       0x44 _build/system_nrf51.o
+ .debug_macro   0x00000000       0xfd _build/system_nrf51.o
+ .debug_macro   0x00000000       0x22 _build/system_nrf51.o
+ .debug_macro   0x00000000      0x1df _build/system_nrf51.o
+ .debug_macro   0x00000000       0x22 _build/system_nrf51.o
+ .debug_macro   0x00000000       0x22 _build/system_nrf51.o
+ .debug_macro   0x00000000       0x3a _build/system_nrf51.o
+ .debug_macro   0x00000000       0x1f _build/system_nrf51.o
+ .debug_macro   0x00000000      0x242 _build/system_nrf51.o
+ .debug_macro   0x00000000      0x1d2 _build/system_nrf51.o
+ .debug_macro   0x00000000     0x745a _build/system_nrf51.o
+ .debug_macro   0x00000000      0x976 _build/system_nrf51.o
+ .debug_macro   0x00000000       0x1c _build/system_nrf51.o
+ .group         0x00000000        0x8 _build/app_error.o
+ .group         0x00000000        0x8 _build/app_error.o
+ .group         0x00000000        0x8 _build/app_error.o
+ .group         0x00000000        0x8 _build/app_error.o
+ .group         0x00000000        0x8 _build/app_error.o
+ .group         0x00000000        0x8 _build/app_error.o
+ .group         0x00000000        0x8 _build/app_error.o
+ .group         0x00000000        0x8 _build/app_error.o
+ .group         0x00000000        0x8 _build/app_error.o
+ .group         0x00000000        0x8 _build/app_error.o
+ .group         0x00000000        0x8 _build/app_error.o
+ .group         0x00000000        0x8 _build/app_error.o
+ .group         0x00000000        0x8 _build/app_error.o
+ .group         0x00000000        0x8 _build/app_error.o
+ .group         0x00000000        0x8 _build/app_error.o
+ .group         0x00000000        0x8 _build/app_error.o
+ .group         0x00000000        0x8 _build/app_error.o
+ .group         0x00000000        0x8 _build/app_error.o
+ .group         0x00000000        0x8 _build/app_error.o
+ .group         0x00000000        0x8 _build/app_error.o
+ .group         0x00000000        0x8 _build/app_error.o
+ .group         0x00000000        0x8 _build/app_error.o
+ .text          0x00000000        0x0 _build/app_error.o
+ .data          0x00000000        0x0 _build/app_error.o
+ .bss           0x00000000        0x0 _build/app_error.o
+ .debug_macro   0x00000000      0x838 _build/app_error.o
+ .debug_macro   0x00000000       0x22 _build/app_error.o
+ .debug_macro   0x00000000       0x3a _build/app_error.o
+ .debug_macro   0x00000000       0x22 _build/app_error.o
+ .debug_macro   0x00000000       0x44 _build/app_error.o
+ .debug_macro   0x00000000       0xfd _build/app_error.o
+ .debug_macro   0x00000000       0x22 _build/app_error.o
+ .debug_macro   0x00000000      0x1df _build/app_error.o
+ .debug_macro   0x00000000       0x1f _build/app_error.o
+ .debug_macro   0x00000000      0x242 _build/app_error.o
+ .debug_macro   0x00000000      0x1d2 _build/app_error.o
+ .debug_macro   0x00000000     0x745a _build/app_error.o
+ .debug_macro   0x00000000      0x976 _build/app_error.o
+ .debug_macro   0x00000000       0x1c _build/app_error.o
+ .debug_macro   0x00000000       0x22 _build/app_error.o
+ .debug_macro   0x00000000       0x8e _build/app_error.o
+ .debug_macro   0x00000000       0x16 _build/app_error.o
+ .debug_macro   0x00000000      0x118 _build/app_error.o
+ .debug_macro   0x00000000       0x10 _build/app_error.o
+ .debug_macro   0x00000000      0x263 _build/app_error.o
+ .debug_macro   0x00000000       0x22 _build/app_error.o
+ .debug_macro   0x00000000       0x4c _build/app_error.o
+ .group         0x00000000        0x8 _build/app_fifo.o
+ .group         0x00000000        0x8 _build/app_fifo.o
+ .group         0x00000000        0x8 _build/app_fifo.o
+ .group         0x00000000        0x8 _build/app_fifo.o
+ .group         0x00000000        0x8 _build/app_fifo.o
+ .group         0x00000000        0x8 _build/app_fifo.o
+ .group         0x00000000        0x8 _build/app_fifo.o
+ .group         0x00000000        0x8 _build/app_fifo.o
+ .group         0x00000000        0x8 _build/app_fifo.o
+ .group         0x00000000        0x8 _build/app_fifo.o
+ .group         0x00000000        0x8 _build/app_fifo.o
+ .group         0x00000000        0x8 _build/app_fifo.o
+ .group         0x00000000        0x8 _build/app_fifo.o
+ .group         0x00000000        0x8 _build/app_fifo.o
+ .group         0x00000000        0x8 _build/app_fifo.o
+ .group         0x00000000        0x8 _build/app_fifo.o
+ .group         0x00000000        0x8 _build/app_fifo.o
+ .group         0x00000000        0x8 _build/app_fifo.o
+ .group         0x00000000        0x8 _build/app_fifo.o
+ .group         0x00000000        0x8 _build/app_fifo.o
+ .group         0x00000000        0x8 _build/app_fifo.o
+ .group         0x00000000        0x8 _build/app_fifo.o
+ .group         0x00000000        0x8 _build/app_fifo.o
+ .text          0x00000000        0x0 _build/app_fifo.o
+ .data          0x00000000        0x0 _build/app_fifo.o
+ .bss           0x00000000        0x0 _build/app_fifo.o
+ .text.fifo_length
+                0x00000000       0x20 _build/app_fifo.o
+ .text.fifo_put
+                0x00000000       0x38 _build/app_fifo.o
+ .text.fifo_get
+                0x00000000       0x34 _build/app_fifo.o
+ .text.app_fifo_init
+                0x00000000       0x5c _build/app_fifo.o
+ .text.app_fifo_put
+                0x00000000       0x3c _build/app_fifo.o
+ .text.app_fifo_get
+                0x00000000       0x30 _build/app_fifo.o
+ .text.app_fifo_flush
+                0x00000000       0x1c _build/app_fifo.o
+ .text.app_fifo_read
+                0x00000000       0x98 _build/app_fifo.o
+ .text.app_fifo_write
+                0x00000000       0xa4 _build/app_fifo.o
+ .debug_info    0x00000000      0x391 _build/app_fifo.o
+ .debug_abbrev  0x00000000      0x102 _build/app_fifo.o
+ .debug_aranges
+                0x00000000       0x60 _build/app_fifo.o
+ .debug_ranges  0x00000000       0x50 _build/app_fifo.o
+ .debug_macro   0x00000000      0x153 _build/app_fifo.o
+ .debug_macro   0x00000000      0x838 _build/app_fifo.o
+ .debug_macro   0x00000000       0x22 _build/app_fifo.o
+ .debug_macro   0x00000000       0x44 _build/app_fifo.o
+ .debug_macro   0x00000000       0xfd _build/app_fifo.o
+ .debug_macro   0x00000000       0x22 _build/app_fifo.o
+ .debug_macro   0x00000000      0x1df _build/app_fifo.o
+ .debug_macro   0x00000000       0x58 _build/app_fifo.o
+ .debug_macro   0x00000000       0x35 _build/app_fifo.o
+ .debug_macro   0x00000000       0x9c _build/app_fifo.o
+ .debug_macro   0x00000000       0x16 _build/app_fifo.o
+ .debug_macro   0x00000000      0x10e _build/app_fifo.o
+ .debug_macro   0x00000000       0x86 _build/app_fifo.o
+ .debug_macro   0x00000000       0x52 _build/app_fifo.o
+ .debug_macro   0x00000000       0x16 _build/app_fifo.o
+ .debug_macro   0x00000000       0x43 _build/app_fifo.o
+ .debug_macro   0x00000000      0x187 _build/app_fifo.o
+ .debug_macro   0x00000000      0x34c _build/app_fifo.o
+ .debug_macro   0x00000000       0x16 _build/app_fifo.o
+ .debug_macro   0x00000000       0x29 _build/app_fifo.o
+ .debug_macro   0x00000000       0x8e _build/app_fifo.o
+ .debug_macro   0x00000000       0x22 _build/app_fifo.o
+ .debug_macro   0x00000000       0x28 _build/app_fifo.o
+ .debug_macro   0x00000000       0x37 _build/app_fifo.o
+ .debug_line    0x00000000      0x457 _build/app_fifo.o
+ .debug_str     0x00000000     0x63f6 _build/app_fifo.o
+ .comment       0x00000000       0x6f _build/app_fifo.o
+ .debug_frame   0x00000000      0x130 _build/app_fifo.o
+ .ARM.attributes
+                0x00000000       0x31 _build/app_fifo.o
+ .group         0x00000000        0x8 _build/app_util_platform.o
+ .group         0x00000000        0x8 _build/app_util_platform.o
+ .group         0x00000000        0x8 _build/app_util_platform.o
+ .group         0x00000000        0x8 _build/app_util_platform.o
+ .group         0x00000000        0x8 _build/app_util_platform.o
+ .group         0x00000000        0x8 _build/app_util_platform.o
+ .group         0x00000000        0x8 _build/app_util_platform.o
+ .group         0x00000000        0x8 _build/app_util_platform.o
+ .group         0x00000000        0x8 _build/app_util_platform.o
+ .group         0x00000000        0x8 _build/app_util_platform.o
+ .group         0x00000000        0x8 _build/app_util_platform.o
+ .group         0x00000000        0x8 _build/app_util_platform.o
+ .group         0x00000000        0x8 _build/app_util_platform.o
+ .group         0x00000000        0x8 _build/app_util_platform.o
+ .group         0x00000000        0x8 _build/app_util_platform.o
+ .text          0x00000000        0x0 _build/app_util_platform.o
+ .data          0x00000000        0x0 _build/app_util_platform.o
+ .bss           0x00000000        0x0 _build/app_util_platform.o
+ .bss.m_in_critical_region
+                0x00000000        0x4 _build/app_util_platform.o
+ .text.critical_region_enter
+                0x00000000       0x1c _build/app_util_platform.o
+ .text.critical_region_exit
+                0x00000000       0x24 _build/app_util_platform.o
+ .debug_info    0x00000000       0xf6 _build/app_util_platform.o
+ .debug_abbrev  0x00000000       0x7f _build/app_util_platform.o
+ .debug_aranges
+                0x00000000       0x28 _build/app_util_platform.o
+ .debug_ranges  0x00000000       0x18 _build/app_util_platform.o
+ .debug_macro   0x00000000       0xc7 _build/app_util_platform.o
+ .debug_macro   0x00000000      0x838 _build/app_util_platform.o
+ .debug_macro   0x00000000       0x22 _build/app_util_platform.o
+ .debug_macro   0x00000000       0x44 _build/app_util_platform.o
+ .debug_macro   0x00000000       0xfd _build/app_util_platform.o
+ .debug_macro   0x00000000       0x22 _build/app_util_platform.o
+ .debug_macro   0x00000000      0x1df _build/app_util_platform.o
+ .debug_macro   0x00000000       0x28 _build/app_util_platform.o
+ .debug_macro   0x00000000       0x22 _build/app_util_platform.o
+ .debug_macro   0x00000000       0x3a _build/app_util_platform.o
+ .debug_macro   0x00000000       0x1f _build/app_util_platform.o
+ .debug_macro   0x00000000      0x242 _build/app_util_platform.o
+ .debug_macro   0x00000000      0x1d2 _build/app_util_platform.o
+ .debug_macro   0x00000000     0x745a _build/app_util_platform.o
+ .debug_macro   0x00000000      0x976 _build/app_util_platform.o
+ .debug_macro   0x00000000       0x22 _build/app_util_platform.o
+ .debug_line    0x00000000      0x34c _build/app_util_platform.o
+ .debug_str     0x00000000    0x2ecac _build/app_util_platform.o
+ .comment       0x00000000       0x6f _build/app_util_platform.o
+ .debug_frame   0x00000000       0x48 _build/app_util_platform.o
+ .ARM.attributes
+                0x00000000       0x31 _build/app_util_platform.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .group         0x00000000        0x8 _build/retarget.o
+ .text          0x00000000        0x0 _build/retarget.o
+ .data          0x00000000        0x0 _build/retarget.o
+ .bss           0x00000000        0x0 _build/retarget.o
+ .text._write   0x00000000       0x38 _build/retarget.o
+ .text._read    0x00000000       0x28 _build/retarget.o
+ .debug_info    0x00000000      0x944 _build/retarget.o
+ .debug_abbrev  0x00000000      0x1c1 _build/retarget.o
+ .debug_aranges
+                0x00000000       0x28 _build/retarget.o
+ .debug_ranges  0x00000000       0x18 _build/retarget.o
+ .debug_macro   0x00000000      0x20d _build/retarget.o
+ .debug_macro   0x00000000      0x838 _build/retarget.o
+ .debug_macro   0x00000000       0x58 _build/retarget.o
+ .debug_macro   0x00000000       0x22 _build/retarget.o
+ .debug_macro   0x00000000       0x35 _build/retarget.o
+ .debug_macro   0x00000000       0x9c _build/retarget.o
+ .debug_macro   0x00000000       0x16 _build/retarget.o
+ .debug_macro   0x00000000       0x4a _build/retarget.o
+ .debug_macro   0x00000000       0x97 _build/retarget.o
+ .debug_macro   0x00000000      0x34c _build/retarget.o
+ .debug_macro   0x00000000       0xf6 _build/retarget.o
+ .debug_macro   0x00000000       0x10 _build/retarget.o
+ .debug_macro   0x00000000       0x52 _build/retarget.o
+ .debug_macro   0x00000000       0x16 _build/retarget.o
+ .debug_macro   0x00000000       0x43 _build/retarget.o
+ .debug_macro   0x00000000      0x187 _build/retarget.o
+ .debug_macro   0x00000000       0x10 _build/retarget.o
+ .debug_macro   0x00000000       0x22 _build/retarget.o
+ .debug_macro   0x00000000       0x22 _build/retarget.o
+ .debug_macro   0x00000000       0x3a _build/retarget.o
+ .debug_macro   0x00000000       0x10 _build/retarget.o
+ .debug_macro   0x00000000       0x40 _build/retarget.o
+ .debug_macro   0x00000000       0x65 _build/retarget.o
+ .debug_macro   0x00000000       0x16 _build/retarget.o
+ .debug_macro   0x00000000      0x197 _build/retarget.o
+ .debug_macro   0x00000000       0xfd _build/retarget.o
+ .debug_macro   0x00000000      0x1df _build/retarget.o
+ .debug_macro   0x00000000       0x22 _build/retarget.o
+ .debug_macro   0x00000000       0x28 _build/retarget.o
+ .debug_macro   0x00000000       0x22 _build/retarget.o
+ .debug_macro   0x00000000       0x3a _build/retarget.o
+ .debug_macro   0x00000000       0x1f _build/retarget.o
+ .debug_macro   0x00000000      0x242 _build/retarget.o
+ .debug_macro   0x00000000      0x1d2 _build/retarget.o
+ .debug_macro   0x00000000     0x745a _build/retarget.o
+ .debug_macro   0x00000000      0x976 _build/retarget.o
+ .debug_macro   0x00000000       0x22 _build/retarget.o
+ .debug_macro   0x00000000       0x17 _build/retarget.o
+ .debug_macro   0x00000000      0x118 _build/retarget.o
+ .debug_macro   0x00000000       0x8e _build/retarget.o
+ .debug_line    0x00000000      0x4d1 _build/retarget.o
+ .debug_str     0x00000000    0x334c2 _build/retarget.o
+ .comment       0x00000000       0x6f _build/retarget.o
+ .debug_frame   0x00000000       0x50 _build/retarget.o
+ .ARM.attributes
+                0x00000000       0x31 _build/retarget.o
+ COMMON         0x00000000       0xd0 _build/retarget.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/app_uart_fifo.o
+ .text          0x00000000        0x0 _build/app_uart_fifo.o
+ .data          0x00000000        0x0 _build/app_uart_fifo.o
+ .bss           0x00000000        0x0 _build/app_uart_fifo.o
+ .text.fifo_length
+                0x00000000       0x20 _build/app_uart_fifo.o
+ .bss.m_event_handler
+                0x00000000        0x4 _build/app_uart_fifo.o
+ .bss.tx_buffer
+                0x00000000        0x1 _build/app_uart_fifo.o
+ .bss.tx_tmp    0x00000000        0x1 _build/app_uart_fifo.o
+ .bss.rx_buffer
+                0x00000000        0x1 _build/app_uart_fifo.o
+ .bss.m_rx_fifo
+                0x00000000       0x10 _build/app_uart_fifo.o
+ .bss.m_tx_fifo
+                0x00000000       0x10 _build/app_uart_fifo.o
+ .text.uart_event_handler
+                0x00000000      0x110 _build/app_uart_fifo.o
+ .rodata        0x00000000       0x20 _build/app_uart_fifo.o
+ .text.app_uart_init
+                0x00000000      0x12c _build/app_uart_fifo.o
+ .text.app_uart_flush
+                0x00000000       0x44 _build/app_uart_fifo.o
+ .text.app_uart_get
+                0x00000000       0x50 _build/app_uart_fifo.o
+ .text.app_uart_put
+                0x00000000       0x4c _build/app_uart_fifo.o
+ .text.app_uart_close
+                0x00000000       0x10 _build/app_uart_fifo.o
+ .debug_info    0x00000000      0x74e _build/app_uart_fifo.o
+ .debug_abbrev  0x00000000      0x16d _build/app_uart_fifo.o
+ .debug_aranges
+                0x00000000       0x50 _build/app_uart_fifo.o
+ .debug_ranges  0x00000000       0x40 _build/app_uart_fifo.o
+ .debug_macro   0x00000000      0x207 _build/app_uart_fifo.o
+ .debug_macro   0x00000000      0x838 _build/app_uart_fifo.o
+ .debug_macro   0x00000000       0x22 _build/app_uart_fifo.o
+ .debug_macro   0x00000000       0x44 _build/app_uart_fifo.o
+ .debug_macro   0x00000000       0xfd _build/app_uart_fifo.o
+ .debug_macro   0x00000000       0x22 _build/app_uart_fifo.o
+ .debug_macro   0x00000000      0x1df _build/app_uart_fifo.o
+ .debug_macro   0x00000000       0x22 _build/app_uart_fifo.o
+ .debug_macro   0x00000000       0x28 _build/app_uart_fifo.o
+ .debug_macro   0x00000000       0x22 _build/app_uart_fifo.o
+ .debug_macro   0x00000000       0x3a _build/app_uart_fifo.o
+ .debug_macro   0x00000000       0x1f _build/app_uart_fifo.o
+ .debug_macro   0x00000000      0x242 _build/app_uart_fifo.o
+ .debug_macro   0x00000000      0x1d2 _build/app_uart_fifo.o
+ .debug_macro   0x00000000     0x745a _build/app_uart_fifo.o
+ .debug_macro   0x00000000      0x976 _build/app_uart_fifo.o
+ .debug_macro   0x00000000       0x22 _build/app_uart_fifo.o
+ .debug_macro   0x00000000       0x17 _build/app_uart_fifo.o
+ .debug_macro   0x00000000       0x58 _build/app_uart_fifo.o
+ .debug_macro   0x00000000       0x35 _build/app_uart_fifo.o
+ .debug_macro   0x00000000       0x9c _build/app_uart_fifo.o
+ .debug_macro   0x00000000       0x16 _build/app_uart_fifo.o
+ .debug_macro   0x00000000      0x10e _build/app_uart_fifo.o
+ .debug_macro   0x00000000       0x86 _build/app_uart_fifo.o
+ .debug_macro   0x00000000       0x52 _build/app_uart_fifo.o
+ .debug_macro   0x00000000       0x16 _build/app_uart_fifo.o
+ .debug_macro   0x00000000       0x43 _build/app_uart_fifo.o
+ .debug_macro   0x00000000      0x187 _build/app_uart_fifo.o
+ .debug_macro   0x00000000      0x34c _build/app_uart_fifo.o
+ .debug_macro   0x00000000       0x16 _build/app_uart_fifo.o
+ .debug_macro   0x00000000       0x29 _build/app_uart_fifo.o
+ .debug_macro   0x00000000       0x8e _build/app_uart_fifo.o
+ .debug_macro   0x00000000       0x70 _build/app_uart_fifo.o
+ .debug_macro   0x00000000      0x13b _build/app_uart_fifo.o
+ .debug_macro   0x00000000       0x10 _build/app_uart_fifo.o
+ .debug_line    0x00000000      0x677 _build/app_uart_fifo.o
+ .debug_str     0x00000000    0x32fb7 _build/app_uart_fifo.o
+ .comment       0x00000000       0x6f _build/app_uart_fifo.o
+ .debug_frame   0x00000000       0xec _build/app_uart_fifo.o
+ .ARM.attributes
+                0x00000000       0x31 _build/app_uart_fifo.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .text          0x00000000        0x0 _build/nrf_delay.o
+ .data          0x00000000        0x0 _build/nrf_delay.o
+ .bss           0x00000000        0x0 _build/nrf_delay.o
+ .text.nrf_delay_ms
+                0x00000000       0x48 _build/nrf_delay.o
+ .debug_info    0x00000000      0x105 _build/nrf_delay.o
+ .debug_abbrev  0x00000000       0xbd _build/nrf_delay.o
+ .debug_aranges
+                0x00000000       0x20 _build/nrf_delay.o
+ .debug_ranges  0x00000000       0x10 _build/nrf_delay.o
+ .debug_macro   0x00000000      0x1df _build/nrf_delay.o
+ .debug_macro   0x00000000      0x838 _build/nrf_delay.o
+ .debug_macro   0x00000000       0x58 _build/nrf_delay.o
+ .debug_macro   0x00000000       0x22 _build/nrf_delay.o
+ .debug_macro   0x00000000       0x35 _build/nrf_delay.o
+ .debug_macro   0x00000000       0x9c _build/nrf_delay.o
+ .debug_macro   0x00000000       0x16 _build/nrf_delay.o
+ .debug_macro   0x00000000       0x4a _build/nrf_delay.o
+ .debug_macro   0x00000000       0x97 _build/nrf_delay.o
+ .debug_macro   0x00000000      0x34c _build/nrf_delay.o
+ .debug_macro   0x00000000       0xf6 _build/nrf_delay.o
+ .debug_macro   0x00000000       0x10 _build/nrf_delay.o
+ .debug_macro   0x00000000       0x52 _build/nrf_delay.o
+ .debug_macro   0x00000000       0x16 _build/nrf_delay.o
+ .debug_macro   0x00000000       0x43 _build/nrf_delay.o
+ .debug_macro   0x00000000      0x187 _build/nrf_delay.o
+ .debug_macro   0x00000000       0x10 _build/nrf_delay.o
+ .debug_macro   0x00000000       0x22 _build/nrf_delay.o
+ .debug_macro   0x00000000       0x22 _build/nrf_delay.o
+ .debug_macro   0x00000000       0x3a _build/nrf_delay.o
+ .debug_macro   0x00000000       0x10 _build/nrf_delay.o
+ .debug_macro   0x00000000       0x40 _build/nrf_delay.o
+ .debug_macro   0x00000000       0x65 _build/nrf_delay.o
+ .debug_macro   0x00000000       0x16 _build/nrf_delay.o
+ .debug_macro   0x00000000      0x197 _build/nrf_delay.o
+ .debug_macro   0x00000000       0x28 _build/nrf_delay.o
+ .debug_macro   0x00000000       0x22 _build/nrf_delay.o
+ .debug_macro   0x00000000       0x3a _build/nrf_delay.o
+ .debug_macro   0x00000000       0xfd _build/nrf_delay.o
+ .debug_macro   0x00000000      0x1df _build/nrf_delay.o
+ .debug_macro   0x00000000       0x1f _build/nrf_delay.o
+ .debug_macro   0x00000000      0x242 _build/nrf_delay.o
+ .debug_macro   0x00000000      0x1d2 _build/nrf_delay.o
+ .debug_macro   0x00000000     0x745a _build/nrf_delay.o
+ .debug_macro   0x00000000      0x976 _build/nrf_delay.o
+ .debug_line    0x00000000      0x414 _build/nrf_delay.o
+ .debug_str     0x00000000    0x32651 _build/nrf_delay.o
+ .comment       0x00000000       0x6f _build/nrf_delay.o
+ .debug_frame   0x00000000       0x30 _build/nrf_delay.o
+ .ARM.attributes
+                0x00000000       0x31 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_drv_common.o
+ .group         0x00000000        0x8 _build/nrf_drv_common.o
+ .group         0x00000000        0x8 _build/nrf_drv_common.o
+ .group         0x00000000        0x8 _build/nrf_drv_common.o
+ .group         0x00000000        0x8 _build/nrf_drv_common.o
+ .group         0x00000000        0x8 _build/nrf_drv_common.o
+ .group         0x00000000        0x8 _build/nrf_drv_common.o
+ .group         0x00000000        0x8 _build/nrf_drv_common.o
+ .group         0x00000000        0x8 _build/nrf_drv_common.o
+ .group         0x00000000        0x8 _build/nrf_drv_common.o
+ .group         0x00000000        0x8 _build/nrf_drv_common.o
+ .group         0x00000000        0x8 _build/nrf_drv_common.o
+ .group         0x00000000        0x8 _build/nrf_drv_common.o
+ .group         0x00000000        0x8 _build/nrf_drv_common.o
+ .group         0x00000000        0x8 _build/nrf_drv_common.o
+ .group         0x00000000        0x8 _build/nrf_drv_common.o
+ .text          0x00000000        0x0 _build/nrf_drv_common.o
+ .data          0x00000000        0x0 _build/nrf_drv_common.o
+ .bss           0x00000000        0x0 _build/nrf_drv_common.o
+ .debug_macro   0x00000000      0x838 _build/nrf_drv_common.o
+ .debug_macro   0x00000000       0x22 _build/nrf_drv_common.o
+ .debug_macro   0x00000000       0x3a _build/nrf_drv_common.o
+ .debug_macro   0x00000000       0x22 _build/nrf_drv_common.o
+ .debug_macro   0x00000000       0x44 _build/nrf_drv_common.o
+ .debug_macro   0x00000000       0xfd _build/nrf_drv_common.o
+ .debug_macro   0x00000000       0x22 _build/nrf_drv_common.o
+ .debug_macro   0x00000000      0x1df _build/nrf_drv_common.o
+ .debug_macro   0x00000000       0x1f _build/nrf_drv_common.o
+ .debug_macro   0x00000000      0x242 _build/nrf_drv_common.o
+ .debug_macro   0x00000000      0x1d2 _build/nrf_drv_common.o
+ .debug_macro   0x00000000     0x745a _build/nrf_drv_common.o
+ .debug_macro   0x00000000      0x976 _build/nrf_drv_common.o
+ .debug_macro   0x00000000       0x1c _build/nrf_drv_common.o
+ .debug_macro   0x00000000       0x22 _build/nrf_drv_common.o
+ .debug_macro   0x00000000       0x8e _build/nrf_drv_common.o
+ .group         0x00000000        0x8 _build/nrf_drv_uart.o
+ .group         0x00000000        0x8 _build/nrf_drv_uart.o
+ .group         0x00000000        0x8 _build/nrf_drv_uart.o
+ .group         0x00000000        0x8 _build/nrf_drv_uart.o
+ .group         0x00000000        0x8 _build/nrf_drv_uart.o
+ .group         0x00000000        0x8 _build/nrf_drv_uart.o
+ .group         0x00000000        0x8 _build/nrf_drv_uart.o
+ .group         0x00000000        0x8 _build/nrf_drv_uart.o
+ .group         0x00000000        0x8 _build/nrf_drv_uart.o
+ .group         0x00000000        0x8 _build/nrf_drv_uart.o
+ .group         0x00000000        0x8 _build/nrf_drv_uart.o
+ .group         0x00000000        0x8 _build/nrf_drv_uart.o
+ .group         0x00000000        0x8 _build/nrf_drv_uart.o
+ .group         0x00000000        0x8 _build/nrf_drv_uart.o
+ .group         0x00000000        0x8 _build/nrf_drv_uart.o
+ .group         0x00000000        0x8 _build/nrf_drv_uart.o
+ .group         0x00000000        0x8 _build/nrf_drv_uart.o
+ .group         0x00000000        0x8 _build/nrf_drv_uart.o
+ .group         0x00000000        0x8 _build/nrf_drv_uart.o
+ .group         0x00000000        0x8 _build/nrf_drv_uart.o
+ .group         0x00000000        0x8 _build/nrf_drv_uart.o
+ .group         0x00000000        0x8 _build/nrf_drv_uart.o
+ .group         0x00000000        0x8 _build/nrf_drv_uart.o
+ .text          0x00000000        0x0 _build/nrf_drv_uart.o
+ .data          0x00000000        0x0 _build/nrf_drv_uart.o
+ .bss           0x00000000        0x0 _build/nrf_drv_uart.o
+ .text.NVIC_DisableIRQ
+                0x00000000       0x30 _build/nrf_drv_uart.o
+ .text.nrf_uart_disable
+                0x00000000       0x1c _build/nrf_drv_uart.o
+ .text.nrf_uart_txrx_pins_disconnect
+                0x00000000       0x20 _build/nrf_drv_uart.o
+ .text.nrf_uart_tx_pin_get
+                0x00000000       0x1c _build/nrf_drv_uart.o
+ .text.nrf_uart_rx_pin_get
+                0x00000000       0x1c _build/nrf_drv_uart.o
+ .text.nrf_uart_rts_pin_get
+                0x00000000       0x18 _build/nrf_drv_uart.o
+ .text.nrf_uart_cts_pin_get
+                0x00000000       0x18 _build/nrf_drv_uart.o
+ .text.nrf_uart_hwfc_pins_disconnect
+                0x00000000       0x20 _build/nrf_drv_uart.o
+ .text.nrf_drv_common_irq_disable
+                0x00000000       0x20 _build/nrf_drv_uart.o
+ .text.nrf_gpio_cfg_default
+                0x00000000       0x24 _build/nrf_drv_uart.o
+ .text.interrupts_disable
+                0x00000000       0x24 _build/nrf_drv_uart.o
+ .text.pins_to_default
+                0x00000000       0x80 _build/nrf_drv_uart.o
+ .text.uart_disable
+                0x00000000       0x18 _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_uninit
+                0x00000000       0x30 _build/nrf_drv_uart.o
+ .text.rx_enable
+                0x00000000       0x34 _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_rx
+                0x00000000      0x160 _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_rx_enable
+                0x00000000       0x28 _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_rx_disable
+                0x00000000       0x24 _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_errorsrc_get
+                0x00000000       0x30 _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_tx_abort
+                0x00000000       0x3c _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_rx_abort
+                0x00000000       0x28 _build/nrf_drv_uart.o
+ .debug_macro   0x00000000      0x838 _build/nrf_drv_uart.o
+ .debug_macro   0x00000000       0x22 _build/nrf_drv_uart.o
+ .debug_macro   0x00000000       0x3a _build/nrf_drv_uart.o
+ .debug_macro   0x00000000       0x22 _build/nrf_drv_uart.o
+ .debug_macro   0x00000000       0x44 _build/nrf_drv_uart.o
+ .debug_macro   0x00000000       0xfd _build/nrf_drv_uart.o
+ .debug_macro   0x00000000       0x22 _build/nrf_drv_uart.o
+ .debug_macro   0x00000000      0x1df _build/nrf_drv_uart.o
+ .debug_macro   0x00000000       0x1f _build/nrf_drv_uart.o
+ .debug_macro   0x00000000      0x242 _build/nrf_drv_uart.o
+ .debug_macro   0x00000000      0x1d2 _build/nrf_drv_uart.o
+ .debug_macro   0x00000000     0x745a _build/nrf_drv_uart.o
+ .debug_macro   0x00000000      0x976 _build/nrf_drv_uart.o
+ .debug_macro   0x00000000       0x1c _build/nrf_drv_uart.o
+ .debug_macro   0x00000000       0x22 _build/nrf_drv_uart.o
+ .debug_macro   0x00000000       0x8e _build/nrf_drv_uart.o
+ .debug_macro   0x00000000       0x70 _build/nrf_drv_uart.o
+ .debug_macro   0x00000000      0x13b _build/nrf_drv_uart.o
+ .debug_macro   0x00000000      0x118 _build/nrf_drv_uart.o
+ .debug_macro   0x00000000       0x10 _build/nrf_drv_uart.o
+ .group         0x00000000        0x8 _build/nrf_assert.o
+ .group         0x00000000        0x8 _build/nrf_assert.o
+ .group         0x00000000        0x8 _build/nrf_assert.o
+ .group         0x00000000        0x8 _build/nrf_assert.o
+ .group         0x00000000        0x8 _build/nrf_assert.o
+ .group         0x00000000        0x8 _build/nrf_assert.o
+ .group         0x00000000        0x8 _build/nrf_assert.o
+ .text          0x00000000        0x0 _build/nrf_assert.o
+ .data          0x00000000        0x0 _build/nrf_assert.o
+ .bss           0x00000000        0x0 _build/nrf_assert.o
+ .debug_info    0x00000000       0x64 _build/nrf_assert.o
+ .debug_abbrev  0x00000000       0x27 _build/nrf_assert.o
+ .debug_aranges
+                0x00000000       0x18 _build/nrf_assert.o
+ .debug_macro   0x00000000       0x6d _build/nrf_assert.o
+ .debug_macro   0x00000000      0x838 _build/nrf_assert.o
+ .debug_macro   0x00000000       0x22 _build/nrf_assert.o
+ .debug_macro   0x00000000       0x44 _build/nrf_assert.o
+ .debug_macro   0x00000000       0xfd _build/nrf_assert.o
+ .debug_macro   0x00000000       0x22 _build/nrf_assert.o
+ .debug_macro   0x00000000      0x1df _build/nrf_assert.o
+ .debug_macro   0x00000000       0x28 _build/nrf_assert.o
+ .debug_line    0x00000000      0x235 _build/nrf_assert.o
+ .debug_str     0x00000000     0x30d3 _build/nrf_assert.o
+ .comment       0x00000000       0x6f _build/nrf_assert.o
+ .ARM.attributes
+                0x00000000       0x31 _build/nrf_assert.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .group         0x00000000        0x8 _build/croutine.o
+ .text          0x00000000        0x0 _build/croutine.o
+ .data          0x00000000        0x0 _build/croutine.o
+ .bss           0x00000000        0x0 _build/croutine.o
+ .debug_info    0x00000000       0x72 _build/croutine.o
+ .debug_abbrev  0x00000000       0x27 _build/croutine.o
+ .debug_aranges
+                0x00000000       0x18 _build/croutine.o
+ .debug_macro   0x00000000      0x182 _build/croutine.o
+ .debug_macro   0x00000000      0x838 _build/croutine.o
+ .debug_macro   0x00000000      0x16d _build/croutine.o
+ .debug_macro   0x00000000       0x22 _build/croutine.o
+ .debug_macro   0x00000000       0x44 _build/croutine.o
+ .debug_macro   0x00000000       0xfd _build/croutine.o
+ .debug_macro   0x00000000       0x22 _build/croutine.o
+ .debug_macro   0x00000000      0x1df _build/croutine.o
+ .debug_macro   0x00000000      0x19c _build/croutine.o
+ .debug_macro   0x00000000       0x22 _build/croutine.o
+ .debug_macro   0x00000000       0x3a _build/croutine.o
+ .debug_macro   0x00000000       0x1f _build/croutine.o
+ .debug_macro   0x00000000      0x242 _build/croutine.o
+ .debug_macro   0x00000000      0x1d2 _build/croutine.o
+ .debug_macro   0x00000000     0x745a _build/croutine.o
+ .debug_macro   0x00000000      0x976 _build/croutine.o
+ .debug_macro   0x00000000       0x1c _build/croutine.o
+ .debug_macro   0x00000000       0x5e _build/croutine.o
+ .debug_macro   0x00000000       0x22 _build/croutine.o
+ .debug_macro   0x00000000       0x37 _build/croutine.o
+ .debug_macro   0x00000000      0x118 _build/croutine.o
+ .debug_macro   0x00000000       0xbc _build/croutine.o
+ .debug_macro   0x00000000       0x10 _build/croutine.o
+ .debug_macro   0x00000000       0x1f _build/croutine.o
+ .debug_macro   0x00000000      0x322 _build/croutine.o
+ .debug_macro   0x00000000       0xc0 _build/croutine.o
+ .debug_macro   0x00000000       0x8c _build/croutine.o
+ .debug_macro   0x00000000       0x43 _build/croutine.o
+ .debug_line    0x00000000      0x4e0 _build/croutine.o
+ .debug_str     0x00000000    0x328a2 _build/croutine.o
+ .comment       0x00000000       0x6f _build/croutine.o
+ .ARM.attributes
+                0x00000000       0x31 _build/croutine.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .group         0x00000000        0x8 _build/event_groups.o
+ .text          0x00000000        0x0 _build/event_groups.o
+ .data          0x00000000        0x0 _build/event_groups.o
+ .bss           0x00000000        0x0 _build/event_groups.o
+ .text.ulPortDisableISR
+                0x00000000       0x3c _build/event_groups.o
+ .text.vPortRestoreISR
+                0x00000000       0x38 _build/event_groups.o
+ .text.xEventGroupCreate
+                0x00000000       0x30 _build/event_groups.o
+ .text.xEventGroupSync
+                0x00000000       0xf8 _build/event_groups.o
+ .text.xEventGroupWaitBits
+                0x00000000      0x120 _build/event_groups.o
+ .text.xEventGroupClearBits
+                0x00000000       0x34 _build/event_groups.o
+ .text.xEventGroupGetBitsFromISR
+                0x00000000       0x2c _build/event_groups.o
+ .text.xEventGroupSetBits
+                0x00000000       0xdc _build/event_groups.o
+ .text.vEventGroupDelete
+                0x00000000       0x44 _build/event_groups.o
+ .text.vEventGroupSetBitsCallback
+                0x00000000       0x20 _build/event_groups.o
+ .text.vEventGroupClearBitsCallback
+                0x00000000       0x20 _build/event_groups.o
+ .text.prvTestWaitCondition
+                0x00000000       0x40 _build/event_groups.o
+ .debug_info    0x00000000      0x8a8 _build/event_groups.o
+ .debug_abbrev  0x00000000      0x283 _build/event_groups.o
+ .debug_aranges
+                0x00000000       0x78 _build/event_groups.o
+ .debug_ranges  0x00000000       0x68 _build/event_groups.o
+ .debug_macro   0x00000000      0x26d _build/event_groups.o
+ .debug_macro   0x00000000      0x838 _build/event_groups.o
+ .debug_macro   0x00000000       0x58 _build/event_groups.o
+ .debug_macro   0x00000000       0x22 _build/event_groups.o
+ .debug_macro   0x00000000       0x35 _build/event_groups.o
+ .debug_macro   0x00000000       0x9c _build/event_groups.o
+ .debug_macro   0x00000000       0x16 _build/event_groups.o
+ .debug_macro   0x00000000      0x10e _build/event_groups.o
+ .debug_macro   0x00000000       0x86 _build/event_groups.o
+ .debug_macro   0x00000000       0x4a _build/event_groups.o
+ .debug_macro   0x00000000       0x52 _build/event_groups.o
+ .debug_macro   0x00000000       0x16 _build/event_groups.o
+ .debug_macro   0x00000000       0x43 _build/event_groups.o
+ .debug_macro   0x00000000      0x187 _build/event_groups.o
+ .debug_macro   0x00000000      0x34c _build/event_groups.o
+ .debug_macro   0x00000000       0x16 _build/event_groups.o
+ .debug_macro   0x00000000       0x29 _build/event_groups.o
+ .debug_macro   0x00000000       0xfd _build/event_groups.o
+ .debug_macro   0x00000000       0x22 _build/event_groups.o
+ .debug_macro   0x00000000      0x1df _build/event_groups.o
+ .debug_macro   0x00000000      0x19c _build/event_groups.o
+ .debug_macro   0x00000000       0x22 _build/event_groups.o
+ .debug_macro   0x00000000       0x3a _build/event_groups.o
+ .debug_macro   0x00000000       0x1f _build/event_groups.o
+ .debug_macro   0x00000000      0x242 _build/event_groups.o
+ .debug_macro   0x00000000      0x1d2 _build/event_groups.o
+ .debug_macro   0x00000000     0x745a _build/event_groups.o
+ .debug_macro   0x00000000      0x976 _build/event_groups.o
+ .debug_macro   0x00000000       0x1c _build/event_groups.o
+ .debug_macro   0x00000000       0x5e _build/event_groups.o
+ .debug_macro   0x00000000       0x22 _build/event_groups.o
+ .debug_macro   0x00000000       0x37 _build/event_groups.o
+ .debug_macro   0x00000000      0x118 _build/event_groups.o
+ .debug_macro   0x00000000       0xbc _build/event_groups.o
+ .debug_macro   0x00000000       0x10 _build/event_groups.o
+ .debug_macro   0x00000000       0x1f _build/event_groups.o
+ .debug_macro   0x00000000      0x322 _build/event_groups.o
+ .debug_macro   0x00000000       0xc0 _build/event_groups.o
+ .debug_macro   0x00000000       0x8c _build/event_groups.o
+ .debug_macro   0x00000000       0x91 _build/event_groups.o
+ .debug_macro   0x00000000       0x19 _build/event_groups.o
+ .debug_line    0x00000000      0x736 _build/event_groups.o
+ .debug_str     0x00000000    0x359f5 _build/event_groups.o
+ .comment       0x00000000       0x6f _build/event_groups.o
+ .debug_frame   0x00000000      0x190 _build/event_groups.o
+ .ARM.attributes
+                0x00000000       0x31 _build/event_groups.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .group         0x00000000        0x8 _build/heap_1.o
+ .text          0x00000000        0x0 _build/heap_1.o
+ .data          0x00000000        0x0 _build/heap_1.o
+ .bss           0x00000000        0x0 _build/heap_1.o
+ .text.vPortInitialiseBlocks
+                0x00000000       0x14 _build/heap_1.o
+ .text.xPortGetFreeHeapSize
+                0x00000000       0x1c _build/heap_1.o
+ .debug_macro   0x00000000      0x838 _build/heap_1.o
+ .debug_macro   0x00000000       0x58 _build/heap_1.o
+ .debug_macro   0x00000000       0x22 _build/heap_1.o
+ .debug_macro   0x00000000       0x35 _build/heap_1.o
+ .debug_macro   0x00000000       0x9c _build/heap_1.o
+ .debug_macro   0x00000000       0x16 _build/heap_1.o
+ .debug_macro   0x00000000      0x10e _build/heap_1.o
+ .debug_macro   0x00000000       0x86 _build/heap_1.o
+ .debug_macro   0x00000000       0x4a _build/heap_1.o
+ .debug_macro   0x00000000       0x52 _build/heap_1.o
+ .debug_macro   0x00000000       0x16 _build/heap_1.o
+ .debug_macro   0x00000000       0x43 _build/heap_1.o
+ .debug_macro   0x00000000      0x187 _build/heap_1.o
+ .debug_macro   0x00000000      0x34c _build/heap_1.o
+ .debug_macro   0x00000000       0x16 _build/heap_1.o
+ .debug_macro   0x00000000       0x29 _build/heap_1.o
+ .debug_macro   0x00000000       0xfd _build/heap_1.o
+ .debug_macro   0x00000000       0x22 _build/heap_1.o
+ .debug_macro   0x00000000      0x1df _build/heap_1.o
+ .debug_macro   0x00000000      0x19c _build/heap_1.o
+ .debug_macro   0x00000000       0x22 _build/heap_1.o
+ .debug_macro   0x00000000       0x3a _build/heap_1.o
+ .debug_macro   0x00000000       0x1f _build/heap_1.o
+ .debug_macro   0x00000000      0x242 _build/heap_1.o
+ .debug_macro   0x00000000      0x1d2 _build/heap_1.o
+ .debug_macro   0x00000000     0x745a _build/heap_1.o
+ .debug_macro   0x00000000      0x976 _build/heap_1.o
+ .debug_macro   0x00000000       0x1c _build/heap_1.o
+ .debug_macro   0x00000000       0x5e _build/heap_1.o
+ .debug_macro   0x00000000       0x22 _build/heap_1.o
+ .debug_macro   0x00000000       0x37 _build/heap_1.o
+ .debug_macro   0x00000000      0x118 _build/heap_1.o
+ .debug_macro   0x00000000       0xbc _build/heap_1.o
+ .debug_macro   0x00000000       0x10 _build/heap_1.o
+ .debug_macro   0x00000000       0x1f _build/heap_1.o
+ .debug_macro   0x00000000      0x322 _build/heap_1.o
+ .debug_macro   0x00000000       0xc0 _build/heap_1.o
+ .debug_macro   0x00000000       0x8c _build/heap_1.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .group         0x00000000        0x8 _build/list.o
+ .text          0x00000000        0x0 _build/list.o
+ .data          0x00000000        0x0 _build/list.o
+ .bss           0x00000000        0x0 _build/list.o
+ .debug_macro   0x00000000      0x838 _build/list.o
+ .debug_macro   0x00000000       0x58 _build/list.o
+ .debug_macro   0x00000000       0x22 _build/list.o
+ .debug_macro   0x00000000       0x35 _build/list.o
+ .debug_macro   0x00000000       0x9c _build/list.o
+ .debug_macro   0x00000000       0x16 _build/list.o
+ .debug_macro   0x00000000      0x10e _build/list.o
+ .debug_macro   0x00000000       0x86 _build/list.o
+ .debug_macro   0x00000000       0x4a _build/list.o
+ .debug_macro   0x00000000       0x52 _build/list.o
+ .debug_macro   0x00000000       0x16 _build/list.o
+ .debug_macro   0x00000000       0x43 _build/list.o
+ .debug_macro   0x00000000      0x187 _build/list.o
+ .debug_macro   0x00000000      0x34c _build/list.o
+ .debug_macro   0x00000000       0x16 _build/list.o
+ .debug_macro   0x00000000       0x29 _build/list.o
+ .debug_macro   0x00000000       0xfd _build/list.o
+ .debug_macro   0x00000000       0x22 _build/list.o
+ .debug_macro   0x00000000      0x1df _build/list.o
+ .debug_macro   0x00000000      0x19c _build/list.o
+ .debug_macro   0x00000000       0x22 _build/list.o
+ .debug_macro   0x00000000       0x3a _build/list.o
+ .debug_macro   0x00000000       0x1f _build/list.o
+ .debug_macro   0x00000000      0x242 _build/list.o
+ .debug_macro   0x00000000      0x1d2 _build/list.o
+ .debug_macro   0x00000000     0x745a _build/list.o
+ .debug_macro   0x00000000      0x976 _build/list.o
+ .debug_macro   0x00000000       0x1c _build/list.o
+ .debug_macro   0x00000000       0x5e _build/list.o
+ .debug_macro   0x00000000       0x22 _build/list.o
+ .debug_macro   0x00000000       0x37 _build/list.o
+ .debug_macro   0x00000000      0x118 _build/list.o
+ .debug_macro   0x00000000       0xbc _build/list.o
+ .debug_macro   0x00000000       0x10 _build/list.o
+ .debug_macro   0x00000000       0x1f _build/list.o
+ .debug_macro   0x00000000      0x322 _build/list.o
+ .debug_macro   0x00000000       0xc0 _build/list.o
+ .group         0x00000000        0x8 _build/port.o
+ .group         0x00000000        0x8 _build/port.o
+ .group         0x00000000        0x8 _build/port.o
+ .group         0x00000000        0x8 _build/port.o
+ .group         0x00000000        0x8 _build/port.o
+ .group         0x00000000        0x8 _build/port.o
+ .group         0x00000000        0x8 _build/port.o
+ .group         0x00000000        0x8 _build/port.o
+ .group         0x00000000        0x8 _build/port.o
+ .group         0x00000000        0x8 _build/port.o
+ .group         0x00000000        0x8 _build/port.o
+ .group         0x00000000        0x8 _build/port.o
+ .group         0x00000000        0x8 _build/port.o
+ .group         0x00000000        0x8 _build/port.o
+ .group         0x00000000        0x8 _build/port.o
+ .group         0x00000000        0x8 _build/port.o
+ .group         0x00000000        0x8 _build/port.o
+ .group         0x00000000        0x8 _build/port.o
+ .group         0x00000000        0x8 _build/port.o
+ .group         0x00000000        0x8 _build/port.o
+ .group         0x00000000        0x8 _build/port.o
+ .group         0x00000000        0x8 _build/port.o
+ .group         0x00000000        0x8 _build/port.o
+ .group         0x00000000        0x8 _build/port.o
+ .group         0x00000000        0x8 _build/port.o
+ .group         0x00000000        0x8 _build/port.o
+ .text          0x00000000        0x0 _build/port.o
+ .data          0x00000000        0x0 _build/port.o
+ .bss           0x00000000        0x0 _build/port.o
+ .debug_macro   0x00000000      0x838 _build/port.o
+ .debug_macro   0x00000000      0x16d _build/port.o
+ .debug_macro   0x00000000       0x22 _build/port.o
+ .debug_macro   0x00000000       0x44 _build/port.o
+ .debug_macro   0x00000000       0xfd _build/port.o
+ .debug_macro   0x00000000       0x22 _build/port.o
+ .debug_macro   0x00000000      0x1df _build/port.o
+ .debug_macro   0x00000000      0x19c _build/port.o
+ .debug_macro   0x00000000       0x22 _build/port.o
+ .debug_macro   0x00000000       0x3a _build/port.o
+ .debug_macro   0x00000000       0x1f _build/port.o
+ .debug_macro   0x00000000      0x242 _build/port.o
+ .debug_macro   0x00000000      0x1d2 _build/port.o
+ .debug_macro   0x00000000     0x745a _build/port.o
+ .debug_macro   0x00000000      0x976 _build/port.o
+ .debug_macro   0x00000000       0x1c _build/port.o
+ .debug_macro   0x00000000       0x5e _build/port.o
+ .debug_macro   0x00000000       0x22 _build/port.o
+ .debug_macro   0x00000000       0x37 _build/port.o
+ .debug_macro   0x00000000      0x118 _build/port.o
+ .debug_macro   0x00000000       0xbc _build/port.o
+ .debug_macro   0x00000000       0x10 _build/port.o
+ .debug_macro   0x00000000       0x1f _build/port.o
+ .debug_macro   0x00000000      0x322 _build/port.o
+ .debug_macro   0x00000000       0xc0 _build/port.o
+ .debug_macro   0x00000000       0x8c _build/port.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis.o
+ .text          0x00000000        0x0 _build/port_cmsis.o
+ .data          0x00000000        0x0 _build/port_cmsis.o
+ .bss           0x00000000        0x0 _build/port_cmsis.o
+ .text.vPortEndScheduler
+                0x00000000        0xc _build/port_cmsis.o
+ .debug_macro   0x00000000      0x838 _build/port_cmsis.o
+ .debug_macro   0x00000000      0x16d _build/port_cmsis.o
+ .debug_macro   0x00000000       0x22 _build/port_cmsis.o
+ .debug_macro   0x00000000       0x44 _build/port_cmsis.o
+ .debug_macro   0x00000000       0xfd _build/port_cmsis.o
+ .debug_macro   0x00000000       0x22 _build/port_cmsis.o
+ .debug_macro   0x00000000      0x1df _build/port_cmsis.o
+ .debug_macro   0x00000000      0x19c _build/port_cmsis.o
+ .debug_macro   0x00000000       0x22 _build/port_cmsis.o
+ .debug_macro   0x00000000       0x3a _build/port_cmsis.o
+ .debug_macro   0x00000000       0x1f _build/port_cmsis.o
+ .debug_macro   0x00000000      0x242 _build/port_cmsis.o
+ .debug_macro   0x00000000      0x1d2 _build/port_cmsis.o
+ .debug_macro   0x00000000     0x745a _build/port_cmsis.o
+ .debug_macro   0x00000000      0x976 _build/port_cmsis.o
+ .debug_macro   0x00000000       0x1c _build/port_cmsis.o
+ .debug_macro   0x00000000       0x5e _build/port_cmsis.o
+ .debug_macro   0x00000000       0x22 _build/port_cmsis.o
+ .debug_macro   0x00000000       0x37 _build/port_cmsis.o
+ .debug_macro   0x00000000      0x118 _build/port_cmsis.o
+ .debug_macro   0x00000000       0xbc _build/port_cmsis.o
+ .debug_macro   0x00000000       0x10 _build/port_cmsis.o
+ .debug_macro   0x00000000       0x1f _build/port_cmsis.o
+ .debug_macro   0x00000000      0x322 _build/port_cmsis.o
+ .debug_macro   0x00000000       0xc0 _build/port_cmsis.o
+ .debug_macro   0x00000000       0x8c _build/port_cmsis.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/port_cmsis_systick.o
+ .text          0x00000000        0x0 _build/port_cmsis_systick.o
+ .data          0x00000000        0x0 _build/port_cmsis_systick.o
+ .bss           0x00000000        0x0 _build/port_cmsis_systick.o
+ .debug_macro   0x00000000      0x838 _build/port_cmsis_systick.o
+ .debug_macro   0x00000000      0x16d _build/port_cmsis_systick.o
+ .debug_macro   0x00000000       0x22 _build/port_cmsis_systick.o
+ .debug_macro   0x00000000       0x44 _build/port_cmsis_systick.o
+ .debug_macro   0x00000000       0xfd _build/port_cmsis_systick.o
+ .debug_macro   0x00000000       0x22 _build/port_cmsis_systick.o
+ .debug_macro   0x00000000      0x1df _build/port_cmsis_systick.o
+ .debug_macro   0x00000000      0x19c _build/port_cmsis_systick.o
+ .debug_macro   0x00000000       0x22 _build/port_cmsis_systick.o
+ .debug_macro   0x00000000       0x3a _build/port_cmsis_systick.o
+ .debug_macro   0x00000000       0x1f _build/port_cmsis_systick.o
+ .debug_macro   0x00000000      0x242 _build/port_cmsis_systick.o
+ .debug_macro   0x00000000      0x1d2 _build/port_cmsis_systick.o
+ .debug_macro   0x00000000     0x745a _build/port_cmsis_systick.o
+ .debug_macro   0x00000000      0x976 _build/port_cmsis_systick.o
+ .debug_macro   0x00000000       0x1c _build/port_cmsis_systick.o
+ .debug_macro   0x00000000       0x5e _build/port_cmsis_systick.o
+ .debug_macro   0x00000000       0x22 _build/port_cmsis_systick.o
+ .debug_macro   0x00000000       0x37 _build/port_cmsis_systick.o
+ .debug_macro   0x00000000      0x118 _build/port_cmsis_systick.o
+ .debug_macro   0x00000000       0xbc _build/port_cmsis_systick.o
+ .debug_macro   0x00000000       0x10 _build/port_cmsis_systick.o
+ .debug_macro   0x00000000       0x1f _build/port_cmsis_systick.o
+ .debug_macro   0x00000000      0x322 _build/port_cmsis_systick.o
+ .debug_macro   0x00000000       0xc0 _build/port_cmsis_systick.o
+ .debug_macro   0x00000000       0x8c _build/port_cmsis_systick.o
+ .debug_macro   0x00000000       0x8e _build/port_cmsis_systick.o
+ .debug_macro   0x00000000       0x70 _build/port_cmsis_systick.o
+ .debug_macro   0x00000000      0x13b _build/port_cmsis_systick.o
+ .debug_macro   0x00000000       0x10 _build/port_cmsis_systick.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .group         0x00000000        0x8 _build/queue.o
+ .text          0x00000000        0x0 _build/queue.o
+ .data          0x00000000        0x0 _build/queue.o
+ .bss           0x00000000        0x0 _build/queue.o
+ .text.xQueueCreateMutex
+                0x00000000       0x80 _build/queue.o
+ .text.xQueueGiveMutexRecursive
+                0x00000000       0x4c _build/queue.o
+ .text.xQueueTakeMutexRecursive
+                0x00000000       0x58 _build/queue.o
+ .text.xQueueCreateCountingSemaphore
+                0x00000000       0x30 _build/queue.o
+ .text.xQueueGiveFromISR
+                0x00000000       0x80 _build/queue.o
+ .text.xQueueReceiveFromISR
+                0x00000000       0x88 _build/queue.o
+ .text.xQueuePeekFromISR
+                0x00000000       0x54 _build/queue.o
+ .text.uxQueueMessagesWaiting
+                0x00000000       0x20 _build/queue.o
+ .text.uxQueueSpacesAvailable
+                0x00000000       0x2c _build/queue.o
+ .text.uxQueueMessagesWaitingFromISR
+                0x00000000       0x18 _build/queue.o
+ .text.vQueueDelete
+                0x00000000       0x24 _build/queue.o
+ .text.xQueueIsQueueEmptyFromISR
+                0x00000000       0x24 _build/queue.o
+ .text.xQueueIsQueueFullFromISR
+                0x00000000       0x28 _build/queue.o
+ .text.vQueueUnregisterQueue
+                0x00000000       0x44 _build/queue.o
+ .debug_macro   0x00000000      0x838 _build/queue.o
+ .debug_macro   0x00000000       0x58 _build/queue.o
+ .debug_macro   0x00000000       0x22 _build/queue.o
+ .debug_macro   0x00000000       0x35 _build/queue.o
+ .debug_macro   0x00000000       0x9c _build/queue.o
+ .debug_macro   0x00000000       0x16 _build/queue.o
+ .debug_macro   0x00000000      0x10e _build/queue.o
+ .debug_macro   0x00000000       0x86 _build/queue.o
+ .debug_macro   0x00000000       0x4a _build/queue.o
+ .debug_macro   0x00000000       0x52 _build/queue.o
+ .debug_macro   0x00000000       0x16 _build/queue.o
+ .debug_macro   0x00000000       0x43 _build/queue.o
+ .debug_macro   0x00000000      0x187 _build/queue.o
+ .debug_macro   0x00000000      0x34c _build/queue.o
+ .debug_macro   0x00000000       0x16 _build/queue.o
+ .debug_macro   0x00000000       0x29 _build/queue.o
+ .debug_macro   0x00000000       0x16 _build/queue.o
+ .debug_macro   0x00000000       0x35 _build/queue.o
+ .debug_macro   0x00000000       0xfd _build/queue.o
+ .debug_macro   0x00000000       0x22 _build/queue.o
+ .debug_macro   0x00000000      0x1df _build/queue.o
+ .debug_macro   0x00000000      0x19c _build/queue.o
+ .debug_macro   0x00000000       0x22 _build/queue.o
+ .debug_macro   0x00000000       0x3a _build/queue.o
+ .debug_macro   0x00000000       0x1f _build/queue.o
+ .debug_macro   0x00000000      0x242 _build/queue.o
+ .debug_macro   0x00000000      0x1d2 _build/queue.o
+ .debug_macro   0x00000000     0x745a _build/queue.o
+ .debug_macro   0x00000000      0x976 _build/queue.o
+ .debug_macro   0x00000000       0x1c _build/queue.o
+ .debug_macro   0x00000000       0x5e _build/queue.o
+ .debug_macro   0x00000000       0x22 _build/queue.o
+ .debug_macro   0x00000000       0x37 _build/queue.o
+ .debug_macro   0x00000000      0x118 _build/queue.o
+ .debug_macro   0x00000000       0xbc _build/queue.o
+ .debug_macro   0x00000000       0x10 _build/queue.o
+ .debug_macro   0x00000000       0x1f _build/queue.o
+ .debug_macro   0x00000000      0x322 _build/queue.o
+ .debug_macro   0x00000000       0xc0 _build/queue.o
+ .debug_macro   0x00000000       0x8c _build/queue.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .group         0x00000000        0x8 _build/tasks.o
+ .text          0x00000000        0x0 _build/tasks.o
+ .data          0x00000000        0x0 _build/tasks.o
+ .bss           0x00000000        0x0 _build/tasks.o
+ .text.ulPortDisableISR
+                0x00000000       0x3c _build/tasks.o
+ .text.vPortRestoreISR
+                0x00000000       0x38 _build/tasks.o
+ .text.vTaskDelete
+                0x00000000       0xb0 _build/tasks.o
+ .text.vTaskDelayUntil
+                0x00000000       0xb0 _build/tasks.o
+ .text.eTaskGetState
+                0x00000000       0xac _build/tasks.o
+ .text.uxTaskPriorityGet
+                0x00000000       0x34 _build/tasks.o
+ .text.uxTaskPriorityGetFromISR
+                0x00000000       0x3c _build/tasks.o
+ .text.vTaskPrioritySet
+                0x00000000      0x12c _build/tasks.o
+ .text.vTaskSuspend
+                0x00000000       0xbc _build/tasks.o
+ .text.prvTaskIsTaskSuspended
+                0x00000000       0x58 _build/tasks.o
+ .text.vTaskResume
+                0x00000000       0xa4 _build/tasks.o
+ .text.xTaskResumeFromISR
+                0x00000000       0xb4 _build/tasks.o
+ .text.vTaskEndScheduler
+                0x00000000       0x1c _build/tasks.o
+ .text.uxTaskGetNumberOfTasks
+                0x00000000       0x14 _build/tasks.o
+ .text.pcTaskGetTaskName
+                0x00000000       0x28 _build/tasks.o
+ .text.xTaskGetIdleTaskHandle
+                0x00000000       0x14 _build/tasks.o
+ .text.vTaskPlaceOnUnorderedEventList
+                0x00000000       0x78 _build/tasks.o
+ .text.xTaskRemoveFromUnorderedEventList
+                0x00000000       0x98 _build/tasks.o
+ .text.prvTaskCheckFreeStackSpace
+                0x00000000       0x34 _build/tasks.o
+ .text.uxTaskGetStackHighWaterMark
+                0x00000000       0x38 _build/tasks.o
+ .text.xTaskGetCurrentTaskHandle
+                0x00000000       0x1c _build/tasks.o
+ .text.uxTaskResetEventItemValue
+                0x00000000       0x2c _build/tasks.o
+ .text.ulTaskNotifyTake
+                0x00000000       0xc8 _build/tasks.o
+ .text.xTaskNotifyWait
+                0x00000000       0xec _build/tasks.o
+ .text.xTaskGenericNotify
+                0x00000000      0x114 _build/tasks.o
+ .rodata.xTaskGenericNotify
+                0x00000000       0x14 _build/tasks.o
+ .text.xTaskNotifyFromISR
+                0x00000000      0x124 _build/tasks.o
+ .rodata.xTaskNotifyFromISR
+                0x00000000       0x14 _build/tasks.o
+ .text.vTaskNotifyGiveFromISR
+                0x00000000       0xd0 _build/tasks.o
+ .debug_macro   0x00000000      0x838 _build/tasks.o
+ .debug_macro   0x00000000       0x58 _build/tasks.o
+ .debug_macro   0x00000000       0x22 _build/tasks.o
+ .debug_macro   0x00000000       0x35 _build/tasks.o
+ .debug_macro   0x00000000       0x9c _build/tasks.o
+ .debug_macro   0x00000000       0x16 _build/tasks.o
+ .debug_macro   0x00000000      0x10e _build/tasks.o
+ .debug_macro   0x00000000       0x86 _build/tasks.o
+ .debug_macro   0x00000000       0x4a _build/tasks.o
+ .debug_macro   0x00000000       0x52 _build/tasks.o
+ .debug_macro   0x00000000       0x16 _build/tasks.o
+ .debug_macro   0x00000000       0x43 _build/tasks.o
+ .debug_macro   0x00000000      0x187 _build/tasks.o
+ .debug_macro   0x00000000      0x34c _build/tasks.o
+ .debug_macro   0x00000000       0x16 _build/tasks.o
+ .debug_macro   0x00000000       0x29 _build/tasks.o
+ .debug_macro   0x00000000       0x16 _build/tasks.o
+ .debug_macro   0x00000000       0x35 _build/tasks.o
+ .debug_macro   0x00000000       0xfd _build/tasks.o
+ .debug_macro   0x00000000       0x22 _build/tasks.o
+ .debug_macro   0x00000000      0x1df _build/tasks.o
+ .debug_macro   0x00000000      0x19c _build/tasks.o
+ .debug_macro   0x00000000       0x22 _build/tasks.o
+ .debug_macro   0x00000000       0x3a _build/tasks.o
+ .debug_macro   0x00000000       0x1f _build/tasks.o
+ .debug_macro   0x00000000      0x242 _build/tasks.o
+ .debug_macro   0x00000000      0x1d2 _build/tasks.o
+ .debug_macro   0x00000000     0x745a _build/tasks.o
+ .debug_macro   0x00000000      0x976 _build/tasks.o
+ .debug_macro   0x00000000       0x1c _build/tasks.o
+ .debug_macro   0x00000000       0x5e _build/tasks.o
+ .debug_macro   0x00000000       0x22 _build/tasks.o
+ .debug_macro   0x00000000       0x37 _build/tasks.o
+ .debug_macro   0x00000000      0x118 _build/tasks.o
+ .debug_macro   0x00000000       0xbc _build/tasks.o
+ .debug_macro   0x00000000       0x10 _build/tasks.o
+ .debug_macro   0x00000000       0x1f _build/tasks.o
+ .debug_macro   0x00000000      0x322 _build/tasks.o
+ .debug_macro   0x00000000       0xc0 _build/tasks.o
+ .debug_macro   0x00000000       0x8c _build/tasks.o
+ .debug_macro   0x00000000       0x91 _build/tasks.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .group         0x00000000        0x8 _build/timers.o
+ .text          0x00000000        0x0 _build/timers.o
+ .data          0x00000000        0x0 _build/timers.o
+ .bss           0x00000000        0x0 _build/timers.o
+ .text.xTimerCreate
+                0x00000000       0x60 _build/timers.o
+ .text.xTimerGetTimerDaemonTaskHandle
+                0x00000000       0x14 _build/timers.o
+ .text.pcTimerGetTimerName
+                0x00000000       0x18 _build/timers.o
+ .text.xTimerIsTimerActive
+                0x00000000       0x2c _build/timers.o
+ .text.pvTimerGetTimerID
+                0x00000000       0x24 _build/timers.o
+ .text.vTimerSetTimerID
+                0x00000000       0x24 _build/timers.o
+ .text.xTimerPendFunctionCallFromISR
+                0x00000000       0x54 _build/timers.o
+ .text.xTimerPendFunctionCall
+                0x00000000       0x54 _build/timers.o
+ .debug_macro   0x00000000      0x838 _build/timers.o
+ .debug_macro   0x00000000       0x58 _build/timers.o
+ .debug_macro   0x00000000       0x22 _build/timers.o
+ .debug_macro   0x00000000       0x35 _build/timers.o
+ .debug_macro   0x00000000       0x9c _build/timers.o
+ .debug_macro   0x00000000       0x16 _build/timers.o
+ .debug_macro   0x00000000      0x10e _build/timers.o
+ .debug_macro   0x00000000       0x86 _build/timers.o
+ .debug_macro   0x00000000       0x4a _build/timers.o
+ .debug_macro   0x00000000       0x52 _build/timers.o
+ .debug_macro   0x00000000       0x16 _build/timers.o
+ .debug_macro   0x00000000       0x43 _build/timers.o
+ .debug_macro   0x00000000      0x187 _build/timers.o
+ .debug_macro   0x00000000      0x34c _build/timers.o
+ .debug_macro   0x00000000       0x16 _build/timers.o
+ .debug_macro   0x00000000       0x29 _build/timers.o
+ .debug_macro   0x00000000       0xfd _build/timers.o
+ .debug_macro   0x00000000       0x22 _build/timers.o
+ .debug_macro   0x00000000      0x1df _build/timers.o
+ .debug_macro   0x00000000      0x19c _build/timers.o
+ .debug_macro   0x00000000       0x22 _build/timers.o
+ .debug_macro   0x00000000       0x3a _build/timers.o
+ .debug_macro   0x00000000       0x1f _build/timers.o
+ .debug_macro   0x00000000      0x242 _build/timers.o
+ .debug_macro   0x00000000      0x1d2 _build/timers.o
+ .debug_macro   0x00000000     0x745a _build/timers.o
+ .debug_macro   0x00000000      0x976 _build/timers.o
+ .debug_macro   0x00000000       0x1c _build/timers.o
+ .debug_macro   0x00000000       0x5e _build/timers.o
+ .debug_macro   0x00000000       0x22 _build/timers.o
+ .debug_macro   0x00000000       0x37 _build/timers.o
+ .debug_macro   0x00000000      0x118 _build/timers.o
+ .debug_macro   0x00000000       0xbc _build/timers.o
+ .debug_macro   0x00000000       0x10 _build/timers.o
+ .debug_macro   0x00000000       0x1f _build/timers.o
+ .debug_macro   0x00000000      0x322 _build/timers.o
+ .debug_macro   0x00000000       0xc0 _build/timers.o
+ .debug_macro   0x00000000       0x8c _build/timers.o
+ .debug_macro   0x00000000       0xb0 _build/timers.o
+ .debug_macro   0x00000000       0x91 _build/timers.o
+ .group         0x00000000        0x8 _build/nrf_drv_clock.o
+ .group         0x00000000        0x8 _build/nrf_drv_clock.o
+ .group         0x00000000        0x8 _build/nrf_drv_clock.o
+ .group         0x00000000        0x8 _build/nrf_drv_clock.o
+ .group         0x00000000        0x8 _build/nrf_drv_clock.o
+ .group         0x00000000        0x8 _build/nrf_drv_clock.o
+ .group         0x00000000        0x8 _build/nrf_drv_clock.o
+ .group         0x00000000        0x8 _build/nrf_drv_clock.o
+ .group         0x00000000        0x8 _build/nrf_drv_clock.o
+ .group         0x00000000        0x8 _build/nrf_drv_clock.o
+ .group         0x00000000        0x8 _build/nrf_drv_clock.o
+ .group         0x00000000        0x8 _build/nrf_drv_clock.o
+ .group         0x00000000        0x8 _build/nrf_drv_clock.o
+ .group         0x00000000        0x8 _build/nrf_drv_clock.o
+ .group         0x00000000        0x8 _build/nrf_drv_clock.o
+ .group         0x00000000        0x8 _build/nrf_drv_clock.o
+ .group         0x00000000        0x8 _build/nrf_drv_clock.o
+ .group         0x00000000        0x8 _build/nrf_drv_clock.o
+ .group         0x00000000        0x8 _build/nrf_drv_clock.o
+ .group         0x00000000        0x8 _build/nrf_drv_clock.o
+ .group         0x00000000        0x8 _build/nrf_drv_clock.o
+ .group         0x00000000        0x8 _build/nrf_drv_clock.o
+ .group         0x00000000        0x8 _build/nrf_drv_clock.o
+ .text          0x00000000        0x0 _build/nrf_drv_clock.o
+ .data          0x00000000        0x0 _build/nrf_drv_clock.o
+ .bss           0x00000000        0x0 _build/nrf_drv_clock.o
+ .text.nrf_clock_lf_src_set
+                0x00000000       0x28 _build/nrf_drv_clock.o
+ .text.nrf_clock_hf_is_running
+                0x00000000       0x24 _build/nrf_drv_clock.o
+ .text.nrf_clock_xtalfreq_set
+                0x00000000       0x24 _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_init
+                0x00000000       0x54 _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_uninit
+                0x00000000       0x1c _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_lfclk_release
+                0x00000000       0x24 _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_lfclk_is_running
+                0x00000000       0x1c _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_hfclk_request
+                0x00000000       0x20 _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_hfclk_release
+                0x00000000       0x20 _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_hfclk_is_running
+                0x00000000       0x1c _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_calibration_force
+                0x00000000        0xc _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_is_calibrating
+                0x00000000       0x14 _build/nrf_drv_clock.o
+ .debug_macro   0x00000000      0x838 _build/nrf_drv_clock.o
+ .debug_macro   0x00000000       0x22 _build/nrf_drv_clock.o
+ .debug_macro   0x00000000       0x22 _build/nrf_drv_clock.o
+ .debug_macro   0x00000000       0x44 _build/nrf_drv_clock.o
+ .debug_macro   0x00000000       0xfd _build/nrf_drv_clock.o
+ .debug_macro   0x00000000       0x22 _build/nrf_drv_clock.o
+ .debug_macro   0x00000000      0x1df _build/nrf_drv_clock.o
+ .debug_macro   0x00000000       0x8e _build/nrf_drv_clock.o
+ .debug_macro   0x00000000       0x70 _build/nrf_drv_clock.o
+ .debug_macro   0x00000000       0x28 _build/nrf_drv_clock.o
+ .debug_macro   0x00000000      0x16d _build/nrf_drv_clock.o
+ .debug_macro   0x00000000       0x22 _build/nrf_drv_clock.o
+ .debug_macro   0x00000000       0x3a _build/nrf_drv_clock.o
+ .debug_macro   0x00000000       0x1f _build/nrf_drv_clock.o
+ .debug_macro   0x00000000      0x242 _build/nrf_drv_clock.o
+ .debug_macro   0x00000000      0x1d2 _build/nrf_drv_clock.o
+ .debug_macro   0x00000000     0x745a _build/nrf_drv_clock.o
+ .debug_macro   0x00000000      0x976 _build/nrf_drv_clock.o
+ .debug_macro   0x00000000       0x10 _build/nrf_drv_clock.o
+ .debug_macro   0x00000000      0x13b _build/nrf_drv_clock.o
+ .debug_macro   0x00000000       0x10 _build/nrf_drv_clock.o
+ .debug_macro   0x00000000      0x118 _build/nrf_drv_clock.o
+ .debug_macro   0x00000000       0x28 _build/nrf_drv_clock.o
+ .data          0x00000000        0x0 _build/gcc_startup_nrf51.o
+ .bss           0x00000000        0x0 _build/gcc_startup_nrf51.o
+ .ARM.extab     0x00000000        0x0 _build/gcc_startup_nrf51.o
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(addsf3.o)
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(addsf3.o)
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(mulsf3.o)
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(mulsf3.o)
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(fixsfsi.o)
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(fixsfsi.o)
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(floatsisf.o)
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(floatsisf.o)
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(muldf3.o)
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(muldf3.o)
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(fixdfsi.o)
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(fixdfsi.o)
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(floatsidf.o)
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(floatsidf.o)
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_clzsi2.o)
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_clzsi2.o)
+ .text          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-calloc.o)
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-calloc.o)
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-calloc.o)
+ .text          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o)
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o)
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o)
+ .text.malloc   0x00000000       0x14 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o)
+ .text          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-callocr.o)
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-callocr.o)
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-callocr.o)
+ .text          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+ .text          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1a /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xcc /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .text          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtend.o
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtend.o
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtend.o
+ .eh_frame      0x00000000        0x4 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtend.o
+ .jcr           0x00000000        0x4 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtend.o
+ .text          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtn.o
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtn.o
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtn.o
+ .text          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(sbrk.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00040000         xr
+RAM              0x20000000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crti.o
+LOAD /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+LOAD /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+LOAD /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a
+LOAD /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a
+LOAD _build/main.o
+LOAD _build/datafilter.o
+LOAD _build/os_timer.o
+LOAD _build/os_thread.o
+LOAD _build/nrf_uartDriver.o
+LOAD _build/system_nrf51.o
+LOAD _build/app_error.o
+LOAD _build/app_fifo.o
+LOAD _build/app_util_platform.o
+LOAD _build/retarget.o
+LOAD _build/app_uart_fifo.o
+LOAD _build/nrf_delay.o
+LOAD _build/nrf_drv_common.o
+LOAD _build/nrf_drv_uart.o
+LOAD _build/nrf_assert.o
+LOAD _build/croutine.o
+LOAD _build/event_groups.o
+LOAD _build/heap_1.o
+LOAD _build/list.o
+LOAD _build/port.o
+LOAD _build/port_cmsis.o
+LOAD _build/port_cmsis_systick.o
+LOAD _build/queue.o
+LOAD _build/tasks.o
+LOAD _build/timers.o
+LOAD _build/nrf_drv_clock.o
+LOAD _build/gcc_startup_nrf51.o
+START GROUP
+LOAD /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a
+LOAD /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a
+END GROUP
+START GROUP
+LOAD /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a
+LOAD /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a
+END GROUP
+LOAD /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtend.o
+LOAD /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtn.o
+START GROUP
+LOAD /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a
+LOAD /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc.a
+LOAD /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a
+END GROUP
+
+.fs_data_out    0x00000000        0x0
+                [!provide]                PROVIDE (__start_fs_data, .)
+ *(fs_data)
+                [!provide]                PROVIDE (__stop_fs_data, .)
+
+.text           0x00000000     0x45f4
+ *(.Vectors)
+ .Vectors       0x00000000       0xc0 _build/gcc_startup_nrf51.o
+                0x00000000                __Vectors
+ *(.text*)
+ .text          0x000000c0       0xb4 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+ .text          0x00000174       0x78 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+                0x00000174                _mainCRTStartup
+                0x00000174                _start
+ .text.exit     0x000001ec       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+                0x000001ec                exit
+ .text.__libc_init_array
+                0x00000218       0x4c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+                0x00000218                __libc_init_array
+ .text.memset   0x00000264       0x10 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+                0x00000264                memset
+ .text._exit    0x00000274        0x4 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+                0x00000274                _exit
+ .text.mainThread
+                0x00000278       0xd8 _build/main.o
+ .text.main     0x00000350       0x44 _build/main.o
+                0x00000350                main
+ .text.calcDistance
+                0x00000394       0x64 _build/datafilter.o
+ .text.setTimeDiff
+                0x000003f8       0x14 _build/datafilter.o
+                0x000003f8                setTimeDiff
+ .text.calcSpeed
+                0x0000040c       0xe4 _build/datafilter.o
+                0x0000040c                calcSpeed
+ .text.os_timerDelay
+                0x000004f0       0x18 _build/os_timer.o
+                0x000004f0                os_timerDelay
+ .text.os_threadNew
+                0x00000508       0x6c _build/os_thread.o
+                0x00000508                os_threadNew
+ .text.os_startScheduler
+                0x00000574       0x10 _build/os_thread.o
+                0x00000574                os_startScheduler
+ .text.uart_init
+                0x00000584       0x34 _build/nrf_uartDriver.o
+                0x00000584                uart_init
+ .text.uart_write
+                0x000005b8       0x44 _build/nrf_uartDriver.o
+                0x000005b8                uart_write
+ .text.SystemInit
+                0x000005fc       0x40 _build/system_nrf51.o
+                0x000005fc                SystemInit
+ .text.is_manual_peripheral_setup_needed
+                0x0000063c       0x80 _build/system_nrf51.o
+ .text.is_disabled_in_debug_needed
+                0x000006bc       0x4c _build/system_nrf51.o
+ .text.app_error_handler
+                0x00000708       0x6c _build/app_error.o
+                0x00000708                app_error_handler
+ .text.NVIC_EnableIRQ
+                0x00000774       0x2c _build/nrf_drv_common.o
+ .text.NVIC_ClearPendingIRQ
+                0x000007a0       0x34 _build/nrf_drv_common.o
+ .text.NVIC_SetPriority
+                0x000007d4       0xdc _build/nrf_drv_common.o
+ .text.nrf_drv_common_irq_enable
+                0x000008b0       0x44 _build/nrf_drv_common.o
+                0x000008b0                nrf_drv_common_irq_enable
+ .text.nrf_uart_event_clear
+                0x000008f4       0x24 _build/nrf_drv_uart.o
+ .text.nrf_uart_event_check
+                0x00000918       0x28 _build/nrf_drv_uart.o
+ .text.nrf_uart_int_enable
+                0x00000940       0x1c _build/nrf_drv_uart.o
+ .text.nrf_uart_int_enable_check
+                0x0000095c       0x24 _build/nrf_drv_uart.o
+ .text.nrf_uart_int_disable
+                0x00000980       0x1c _build/nrf_drv_uart.o
+ .text.nrf_uart_errorsrc_get_and_clear
+                0x0000099c       0x28 _build/nrf_drv_uart.o
+ .text.nrf_uart_enable
+                0x000009c4       0x1c _build/nrf_drv_uart.o
+ .text.nrf_uart_txrx_pins_set
+                0x000009e0       0x2c _build/nrf_drv_uart.o
+ .text.nrf_uart_hwfc_pins_set
+                0x00000a0c       0x28 _build/nrf_drv_uart.o
+ .text.nrf_uart_rxd_get
+                0x00000a34       0x1c _build/nrf_drv_uart.o
+ .text.nrf_uart_txd_set
+                0x00000a50       0x24 _build/nrf_drv_uart.o
+ .text.nrf_uart_task_trigger
+                0x00000a74       0x24 _build/nrf_drv_uart.o
+ .text.nrf_uart_configure
+                0x00000a98       0x38 _build/nrf_drv_uart.o
+ .text.nrf_uart_baudrate_set
+                0x00000ad0       0x20 _build/nrf_drv_uart.o
+ .text.nrf_gpio_cfg
+                0x00000af0       0x60 _build/nrf_drv_uart.o
+ .text.nrf_gpio_cfg_output
+                0x00000b50       0x24 _build/nrf_drv_uart.o
+ .text.nrf_gpio_cfg_input
+                0x00000b74       0x30 _build/nrf_drv_uart.o
+ .text.nrf_gpio_pin_set
+                0x00000ba4       0x20 _build/nrf_drv_uart.o
+ .text.apply_config
+                0x00000bc4       0x9c _build/nrf_drv_uart.o
+ .text.interrupts_enable
+                0x00000c60       0x34 _build/nrf_drv_uart.o
+ .text.uart_enable
+                0x00000c94       0x18 _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_init
+                0x00000cac       0x78 _build/nrf_drv_uart.o
+                0x00000cac                nrf_drv_uart_init
+ .text.tx_byte  0x00000d24       0x54 _build/nrf_drv_uart.o
+ .text.nrf_drv_uart_tx
+                0x00000d78       0xfc _build/nrf_drv_uart.o
+                0x00000d78                nrf_drv_uart_tx
+ .text.rx_byte  0x00000e74       0x48 _build/nrf_drv_uart.o
+ .text.rx_done_event
+                0x00000ebc       0x4c _build/nrf_drv_uart.o
+ .text.tx_done_event
+                0x00000f08       0x4c _build/nrf_drv_uart.o
+ .text.UART0_IRQHandler
+                0x00000f54      0x19c _build/nrf_drv_uart.o
+                0x00000f54                UART0_IRQHandler
+ .text.pvPortMalloc
+                0x000010f0       0x8c _build/heap_1.o
+                0x000010f0                pvPortMalloc
+ .text.vPortFree
+                0x0000117c       0x10 _build/heap_1.o
+                0x0000117c                vPortFree
+ .text.vListInitialise
+                0x0000118c       0x3c _build/list.o
+                0x0000118c                vListInitialise
+ .text.vListInitialiseItem
+                0x000011c8       0x18 _build/list.o
+                0x000011c8                vListInitialiseItem
+ .text.vListInsertEnd
+                0x000011e0       0x44 _build/list.o
+                0x000011e0                vListInsertEnd
+ .text.vListInsert
+                0x00001224       0x6c _build/list.o
+                0x00001224                vListInsert
+ .text.uxListRemove
+                0x00001290       0x50 _build/list.o
+                0x00001290                uxListRemove
+ .text.vPortStartFirstTask
+                0x000012e0       0x30 _build/port.o
+                0x000012e0                vPortStartFirstTask
+ .text.SVC_Handler
+                0x00001310        0xc _build/port.o
+                0x00001310                SVC_Handler
+ .text.PendSV_Handler
+                0x0000131c       0x44 _build/port.o
+                0x0000131c                PendSV_Handler
+ .text.NVIC_SetPriority
+                0x00001360       0xdc _build/port_cmsis.o
+ .text.vPortDisableISR
+                0x0000143c        0xc _build/port_cmsis.o
+ .text.vPortEnableISR
+                0x00001448        0xc _build/port_cmsis.o
+ .text.ulPortDisableISR
+                0x00001454       0x3c _build/port_cmsis.o
+ .text.vPortRestoreISR
+                0x00001490       0x38 _build/port_cmsis.o
+ .text.pxPortInitialiseStack
+                0x000014c8       0x60 _build/port_cmsis.o
+                0x000014c8                pxPortInitialiseStack
+ .text.prvTaskExitError
+                0x00001528        0xc _build/port_cmsis.o
+ .text.xPortStartScheduler
+                0x00001534       0x40 _build/port_cmsis.o
+                0x00001534                xPortStartScheduler
+ .text.vPortEnterCritical
+                0x00001574       0x1c _build/port_cmsis.o
+                0x00001574                vPortEnterCritical
+ .text.vPortExitCritical
+                0x00001590       0x24 _build/port_cmsis.o
+                0x00001590                vPortExitCritical
+ .text.vPortSafeTaskSwitchContext
+                0x000015b4       0x24 _build/port_cmsis.o
+                0x000015b4                vPortSafeTaskSwitchContext
+ .text.NVIC_EnableIRQ
+                0x000015d8       0x2c _build/port_cmsis_systick.o
+ .text.NVIC_SetPriority
+                0x00001604       0xdc _build/port_cmsis_systick.o
+ .text.vPortDisableISR
+                0x000016e0        0xc _build/port_cmsis_systick.o
+ .text.vPortEnableISR
+                0x000016ec        0xc _build/port_cmsis_systick.o
+ .text.ulPortDisableISR
+                0x000016f8       0x3c _build/port_cmsis_systick.o
+ .text.vPortRestoreISR
+                0x00001734       0x38 _build/port_cmsis_systick.o
+ .text.nrf_rtc_cc_set
+                0x0000176c       0x24 _build/port_cmsis_systick.o
+ .text.nrf_rtc_int_enable
+                0x00001790       0x1c _build/port_cmsis_systick.o
+ .text.nrf_rtc_int_disable
+                0x000017ac       0x1c _build/port_cmsis_systick.o
+ .text.nrf_rtc_event_clear
+                0x000017c8       0x24 _build/port_cmsis_systick.o
+ .text.nrf_rtc_counter_get
+                0x000017ec       0x1c _build/port_cmsis_systick.o
+ .text.nrf_rtc_prescaler_set
+                0x00001808       0x1c _build/port_cmsis_systick.o
+ .text.nrf_rtc_task_trigger
+                0x00001824       0x24 _build/port_cmsis_systick.o
+ .text.RTC1_IRQHandler
+                0x00001848       0x90 _build/port_cmsis_systick.o
+                0x00001848                RTC1_IRQHandler
+ .text.vPortSetupTimerInterrupt
+                0x000018d8       0x48 _build/port_cmsis_systick.o
+                0x000018d8                vPortSetupTimerInterrupt
+ .text.vPortSuppressTicksAndSleep
+                0x00001920       0xbc _build/port_cmsis_systick.o
+                0x00001920                vPortSuppressTicksAndSleep
+ .text.ulPortDisableISR
+                0x000019dc       0x3c _build/queue.o
+ .text.vPortRestoreISR
+                0x00001a18       0x38 _build/queue.o
+ .text.xQueueGenericReset
+                0x00001a50       0xb4 _build/queue.o
+                0x00001a50                xQueueGenericReset
+ .text.xQueueGenericCreate
+                0x00001b04       0x7c _build/queue.o
+                0x00001b04                xQueueGenericCreate
+ .text.xQueueGenericSend
+                0x00001b80      0x150 _build/queue.o
+                0x00001b80                xQueueGenericSend
+ .text.xQueueGenericSendFromISR
+                0x00001cd0       0x8c _build/queue.o
+                0x00001cd0                xQueueGenericSendFromISR
+ .text.xQueueGenericReceive
+                0x00001d5c      0x19c _build/queue.o
+                0x00001d5c                xQueueGenericReceive
+ .text.prvCopyDataToQueue
+                0x00001ef8       0xd8 _build/queue.o
+ .text.prvCopyDataFromQueue
+                0x00001fd0       0x4c _build/queue.o
+ .text.prvUnlockQueue
+                0x0000201c       0x94 _build/queue.o
+ .text.prvIsQueueEmpty
+                0x000020b0       0x2c _build/queue.o
+ .text.prvIsQueueFull
+                0x000020dc       0x30 _build/queue.o
+ .text.vQueueAddToRegistry
+                0x0000210c       0x50 _build/queue.o
+                0x0000210c                vQueueAddToRegistry
+ .text.vQueueWaitForMessageRestricted
+                0x0000215c       0x58 _build/queue.o
+                0x0000215c                vQueueWaitForMessageRestricted
+ .text.vPortDisableISR
+                0x000021b4        0xc _build/tasks.o
+ .text.xTaskGenericCreate
+                0x000021c0      0x15c _build/tasks.o
+                0x000021c0                xTaskGenericCreate
+ .text.vTaskDelay
+                0x0000231c       0x68 _build/tasks.o
+                0x0000231c                vTaskDelay
+ .text.vTaskStartScheduler
+                0x00002384       0x6c _build/tasks.o
+                0x00002384                vTaskStartScheduler
+ .text.vTaskSuspendAll
+                0x000023f0       0x18 _build/tasks.o
+                0x000023f0                vTaskSuspendAll
+ .text.prvGetExpectedIdleTime
+                0x00002408       0x4c _build/tasks.o
+ .text.xTaskResumeAll
+                0x00002454      0x10c _build/tasks.o
+                0x00002454                xTaskResumeAll
+ .text.xTaskGetTickCount
+                0x00002560       0x1c _build/tasks.o
+                0x00002560                xTaskGetTickCount
+ .text.xTaskGetTickCountFromISR
+                0x0000257c       0x20 _build/tasks.o
+                0x0000257c                xTaskGetTickCountFromISR
+ .text.vTaskStepTick
+                0x0000259c       0x20 _build/tasks.o
+                0x0000259c                vTaskStepTick
+ .text.xTaskIncrementTick
+                0x000025bc      0x140 _build/tasks.o
+                0x000025bc                xTaskIncrementTick
+ .text.vTaskSwitchContext
+                0x000026fc       0x94 _build/tasks.o
+                0x000026fc                vTaskSwitchContext
+ .text.vTaskPlaceOnEventList
+                0x00002790       0x68 _build/tasks.o
+                0x00002790                vTaskPlaceOnEventList
+ .text.vTaskPlaceOnEventListRestricted
+                0x000027f8       0x4c _build/tasks.o
+                0x000027f8                vTaskPlaceOnEventListRestricted
+ .text.xTaskRemoveFromEventList
+                0x00002844       0xb4 _build/tasks.o
+                0x00002844                xTaskRemoveFromEventList
+ .text.vTaskSetTimeOutState
+                0x000028f8       0x28 _build/tasks.o
+                0x000028f8                vTaskSetTimeOutState
+ .text.xTaskCheckForTimeOut
+                0x00002920       0x88 _build/tasks.o
+                0x00002920                xTaskCheckForTimeOut
+ .text.vTaskMissedYield
+                0x000029a8       0x14 _build/tasks.o
+                0x000029a8                vTaskMissedYield
+ .text.prvIdleTask
+                0x000029bc       0x5c _build/tasks.o
+ .text.eTaskConfirmSleepModeStatus
+                0x00002a18       0x40 _build/tasks.o
+                0x00002a18                eTaskConfirmSleepModeStatus
+ .text.prvInitialiseTCBVariables
+                0x00002a58       0xac _build/tasks.o
+ .text.prvInitialiseTaskLists
+                0x00002b04       0x88 _build/tasks.o
+ .text.prvCheckTasksWaitingTermination
+                0x00002b8c       0x74 _build/tasks.o
+ .text.prvAddCurrentTaskToDelayedList
+                0x00002c00       0x6c _build/tasks.o
+ .text.prvAllocateTCBAndStack
+                0x00002c6c       0x78 _build/tasks.o
+ .text.prvDeleteTCB
+                0x00002ce4       0x24 _build/tasks.o
+ .text.prvResetNextTaskUnblockTime
+                0x00002d08       0x48 _build/tasks.o
+ .text.xTaskGetSchedulerState
+                0x00002d50       0x38 _build/tasks.o
+                0x00002d50                xTaskGetSchedulerState
+ .text.vTaskPriorityInherit
+                0x00002d88       0xbc _build/tasks.o
+                0x00002d88                vTaskPriorityInherit
+ .text.xTaskPriorityDisinherit
+                0x00002e44       0x98 _build/tasks.o
+                0x00002e44                xTaskPriorityDisinherit
+ .text.pvTaskIncrementMutexHeldCount
+                0x00002edc       0x24 _build/tasks.o
+                0x00002edc                pvTaskIncrementMutexHeldCount
+ .text.xTimerCreateTimerTask
+                0x00002f00       0x50 _build/timers.o
+                0x00002f00                xTimerCreateTimerTask
+ .text.xTimerGenericCommand
+                0x00002f50       0x90 _build/timers.o
+                0x00002f50                xTimerGenericCommand
+ .text.prvProcessExpiredTimer
+                0x00002fe0       0x68 _build/timers.o
+ .text.prvTimerTask
+                0x00003048       0x28 _build/timers.o
+ .text.prvProcessTimerOrBlockTask
+                0x00003070       0x84 _build/timers.o
+ .text.prvGetNextExpireTime
+                0x000030f4       0x40 _build/timers.o
+ .text.prvSampleTimeNow
+                0x00003134       0x40 _build/timers.o
+ .text.prvInsertTimerInActiveList
+                0x00003174       0x84 _build/timers.o
+ .text.prvProcessReceivedCommands
+                0x000031f8      0x110 _build/timers.o
+ .text.prvSwitchTimerLists
+                0x00003308       0xac _build/timers.o
+ .text.prvCheckForValidListAndQueue
+                0x000033b4       0x74 _build/timers.o
+ .text.nrf_clock_int_enable
+                0x00003428       0x1c _build/nrf_drv_clock.o
+ .text.nrf_clock_task_trigger
+                0x00003444       0x24 _build/nrf_drv_clock.o
+ .text.nrf_clock_event_clear
+                0x00003468       0x24 _build/nrf_drv_clock.o
+ .text.nrf_clock_lf_is_running
+                0x0000348c       0x24 _build/nrf_drv_clock.o
+ .text.nrf_clock_lf_start_task_status_get
+                0x000034b0       0x20 _build/nrf_drv_clock.o
+ .text.nrf_clock_hf_src_get
+                0x000034d0       0x20 _build/nrf_drv_clock.o
+ .text.nrf_clock_hf_start_task_status_get
+                0x000034f0       0x1c _build/nrf_drv_clock.o
+ .text.hfclk_start
+                0x0000350c       0x1c _build/nrf_drv_clock.o
+ .text.hfclk_stop
+                0x00003528       0x1c _build/nrf_drv_clock.o
+ .text.lfclk_start
+                0x00003544       0x1c _build/nrf_drv_clock.o
+ .text.lfclk_stop
+                0x00003560       0x1c _build/nrf_drv_clock.o
+ .text.lfclk_control
+                0x0000357c       0x4c _build/nrf_drv_clock.o
+ .text.hfclk_control
+                0x000035c8       0x74 _build/nrf_drv_clock.o
+ .text.nrf_drv_clock_lfclk_request
+                0x0000363c       0x24 _build/nrf_drv_clock.o
+                0x0000363c                nrf_drv_clock_lfclk_request
+ .text          0x00003660       0x54 _build/gcc_startup_nrf51.o
+                0x00003660                Reset_Handler
+                0x000036a8                NMI_Handler
+                0x000036aa                HardFault_Handler
+                0x000036b0                SysTick_Handler
+                0x000036b2                TIMER2_IRQHandler
+                0x000036b2                SPI0_TWI0_IRQHandler
+                0x000036b2                RTC0_IRQHandler
+                0x000036b2                GPIOTE_IRQHandler
+                0x000036b2                POWER_CLOCK_IRQHandler
+                0x000036b2                RADIO_IRQHandler
+                0x000036b2                LPCOMP_IRQHandler
+                0x000036b2                SWI4_IRQHandler
+                0x000036b2                TEMP_IRQHandler
+                0x000036b2                QDEC_IRQHandler
+                0x000036b2                SWI5_IRQHandler
+                0x000036b2                TIMER0_IRQHandler
+                0x000036b2                SWI0_IRQHandler
+                0x000036b2                TIMER1_IRQHandler
+                0x000036b2                ECB_IRQHandler
+                0x000036b2                Default_Handler
+                0x000036b2                ADC_IRQHandler
+                0x000036b2                SWI3_IRQHandler
+                0x000036b2                CCM_AAR_IRQHandler
+                0x000036b2                WDT_IRQHandler
+                0x000036b2                SWI2_IRQHandler
+                0x000036b2                RNG_IRQHandler
+                0x000036b2                SPI1_TWI1_IRQHandler
+                0x000036b2                SWI1_IRQHandler
+ .text          0x000036b4      0x2ec /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(addsf3.o)
+                0x000036b4                __aeabi_fadd
+ .text          0x000039a0      0x228 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(mulsf3.o)
+                0x000039a0                __aeabi_fmul
+ .text          0x00003bc8       0x44 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(fixsfsi.o)
+                0x00003bc8                __aeabi_f2iz
+ .text          0x00003c0c       0x90 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(floatsisf.o)
+                0x00003c0c                __aeabi_i2f
+ .text          0x00003c9c      0x4f4 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(muldf3.o)
+                0x00003c9c                __aeabi_dmul
+ .text          0x00004190       0x6c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(fixdfsi.o)
+                0x00004190                __aeabi_d2iz
+ .text          0x000041fc       0x84 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(floatsidf.o)
+                0x000041fc                __aeabi_i2d
+ .text          0x00004280       0x3c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_clzsi2.o)
+                0x00004280                __clzsi2
+ .text.calloc   0x000042bc       0x14 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-calloc.o)
+                0x000042bc                calloc
+ .text.free     0x000042d0       0x14 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o)
+                0x000042d0                free
+ .text.memcpy   0x000042e4       0x12 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
+                0x000042e4                memcpy
+ .text._calloc_r
+                0x000042f6       0x1c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-callocr.o)
+                0x000042f6                _calloc_r
+ *fill*         0x00004312        0x2 
+ .text._free_r  0x00004314       0x8c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+                0x00004314                _free_r
+ .text._malloc_r
+                0x000043a0       0xac /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+                0x000043a0                _malloc_r
+ .text._sbrk_r  0x0000444c       0x24 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+                0x0000444c                _sbrk_r
+ .text          0x00004470        0xe /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
+                0x00004470                strlen
+ *fill*         0x0000447e        0x2 
+ .text._sbrk    0x00004480       0x1c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(sbrk.o)
+                0x00004480                _sbrk
+ *(.init)
+ .init          0x0000449c        0x4 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crti.o
+                0x0000449c                _init
+ .init          0x000044a0        0x8 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtn.o
+ *(.fini)
+ .fini          0x000044a8        0x4 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crti.o
+                0x000044a8                _fini
+ .fini          0x000044ac        0x8 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.str1.1
+                0x000044b4        0x2 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+ *fill*         0x000044b6        0x2 
+ .rodata._global_impure_ptr
+                0x000044b8        0x4 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+                0x000044b8                _global_impure_ptr
+ .rodata        0x000044bc       0x24 _build/main.o
+ .rodata        0x000044e0       0x33 _build/nrf_uartDriver.o
+ *fill*         0x00004513        0x1 
+ .rodata.m_default_config
+                0x00004514       0x20 _build/nrf_drv_uart.o
+ .rodata        0x00004534        0x5 _build/tasks.o
+ *fill*         0x00004539        0x3 
+ .rodata        0x0000453c        0xd _build/timers.o
+ *fill*         0x00004549        0x3 
+ .rodata.prvProcessReceivedCommands
+                0x0000454c       0x28 _build/timers.o
+ .rodata        0x00004574       0x40 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(mulsf3.o)
+ .rodata        0x000045b4       0x40 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(muldf3.o)
+ *(.eh_frame*)
+ .eh_frame      0x000045f4        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+                0x000045f4                . = ALIGN (0x4)
+
+.glue_7         0x000045f4        0x0
+ .glue_7        0x000045f4        0x0 linker stubs
+
+.glue_7t        0x000045f4        0x0
+ .glue_7t       0x000045f4        0x0 linker stubs
+
+.vfp11_veneer   0x000045f4        0x0
+ .vfp11_veneer  0x000045f4        0x0 linker stubs
+
+.v4_bx          0x000045f4        0x0
+ .v4_bx         0x000045f4        0x0 linker stubs
+
+.iplt           0x000045f4        0x0
+ .iplt          0x000045f4        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+
+.ARM.extab      0x000045f4        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x000045f4                . = ALIGN (0x4)
+                0x000045f4                __exidx_start = .
+
+.ARM.exidx      0x000045f4        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x000045f4        0x8 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.exidx     0x000045fc        0x0 _build/gcc_startup_nrf51.o
+                                  0x8 (size before relaxing)
+                0x000045fc                . = ALIGN (0x4)
+                0x000045fc                __exidx_end = .
+                0x000045fc                __etext = .
+
+.rel.dyn        0x000045fc        0x0
+ .rel.iplt      0x000045fc        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+
+.data           0x20000000       0x70 load address 0x000045fc
+                0x20000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.impure_data
+                0x20000000       0x60 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x20000060        0x4 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+                0x20000060                _impure_ptr
+ .data.xNextTaskUnblockTime
+                0x20000064        0x4 _build/tasks.o
+                0x20000068                . = ALIGN (0x4)
+                0x20000068                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x20000068                PROVIDE (__preinit_array_end, .)
+                0x20000068                . = ALIGN (0x4)
+                0x20000068                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x20000068        0x4 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+                0x2000006c                PROVIDE (__init_array_end, .)
+                0x2000006c                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x2000006c        0x4 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+                [!provide]                PROVIDE (__fini_array_end, .)
+ *(.jcr)
+ .jcr           0x20000070        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+                0x20000070                . = ALIGN (0x4)
+                0x20000070                __data_end__ = .
+
+.tm_clone_table
+                0x20000070        0x0 load address 0x0000466c
+ .tm_clone_table
+                0x20000070        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+ .tm_clone_table
+                0x20000070        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtend.o
+
+.igot.plt       0x20000070        0x0 load address 0x0000466c
+ .igot.plt      0x20000070        0x0 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+
+.bss            0x20000070     0x11c0 load address 0x0000466c
+                0x20000070                . = ALIGN (0x4)
+                0x20000070                __bss_start__ = .
+ *(.bss*)
+ .bss           0x20000070       0x1c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+ .bss.timeDiff  0x2000008c        0x4 _build/datafilter.o
+ .bss.m_cb      0x20000090       0x18 _build/nrf_drv_uart.o
+ .bss.ucHeap    0x200000a8     0x1000 _build/heap_1.o
+ .bss.xNextFreeByte
+                0x200010a8        0x4 _build/heap_1.o
+ .bss.pucAlignedHeap.5558
+                0x200010ac        0x4 _build/heap_1.o
+ .bss.uxCriticalNesting
+                0x200010b0        0x4 _build/port_cmsis.o
+ .bss.pxCurrentTCB
+                0x200010b4        0x4 _build/tasks.o
+                0x200010b4                pxCurrentTCB
+ .bss.pxReadyTasksLists
+                0x200010b8       0x3c _build/tasks.o
+ .bss.xDelayedTaskList1
+                0x200010f4       0x14 _build/tasks.o
+ .bss.xDelayedTaskList2
+                0x20001108       0x14 _build/tasks.o
+ .bss.pxDelayedTaskList
+                0x2000111c        0x4 _build/tasks.o
+ .bss.pxOverflowDelayedTaskList
+                0x20001120        0x4 _build/tasks.o
+ .bss.xPendingReadyList
+                0x20001124       0x14 _build/tasks.o
+ .bss.xTasksWaitingTermination
+                0x20001138       0x14 _build/tasks.o
+ .bss.uxTasksDeleted
+                0x2000114c        0x4 _build/tasks.o
+ .bss.xSuspendedTaskList
+                0x20001150       0x14 _build/tasks.o
+ .bss.xIdleTaskHandle
+                0x20001164        0x4 _build/tasks.o
+ .bss.uxCurrentNumberOfTasks
+                0x20001168        0x4 _build/tasks.o
+ .bss.xTickCount
+                0x2000116c        0x4 _build/tasks.o
+ .bss.uxTopReadyPriority
+                0x20001170        0x4 _build/tasks.o
+ .bss.xSchedulerRunning
+                0x20001174        0x4 _build/tasks.o
+ .bss.uxPendedTicks
+                0x20001178        0x4 _build/tasks.o
+ .bss.xYieldPending
+                0x2000117c        0x4 _build/tasks.o
+ .bss.xNumOfOverflows
+                0x20001180        0x4 _build/tasks.o
+ .bss.uxTaskNumber
+                0x20001184        0x4 _build/tasks.o
+ .bss.uxSchedulerSuspended
+                0x20001188        0x4 _build/tasks.o
+ .bss.xActiveTimerList1
+                0x2000118c       0x14 _build/timers.o
+ .bss.xActiveTimerList2
+                0x200011a0       0x14 _build/timers.o
+ .bss.pxCurrentTimerList
+                0x200011b4        0x4 _build/timers.o
+ .bss.pxOverflowTimerList
+                0x200011b8        0x4 _build/timers.o
+ .bss.xTimerQueue
+                0x200011bc        0x4 _build/timers.o
+ .bss.xTimerTaskHandle
+                0x200011c0        0x4 _build/timers.o
+ .bss.xLastTime.5814
+                0x200011c4        0x4 _build/timers.o
+ .bss.m_clock_cb
+                0x200011c8        0xc _build/nrf_drv_clock.o
+ .bss.__malloc_sbrk_start
+                0x200011d4        0x4 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+                0x200011d4                __malloc_sbrk_start
+ .bss.__malloc_free_list
+                0x200011d8        0x4 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+                0x200011d8                __malloc_free_list
+ .bss.heap_end.4167
+                0x200011dc        0x4 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(sbrk.o)
+ *(COMMON)
+ COMMON         0x200011e0       0x18 _build/main.o
+                0x200011e0                XGforce
+                0x200011e2                freq
+                0x200011e4                threadHandle
+                0x200011e8                distance
+                0x200011ec                uartBuf
+                0x200011f0                speed
+                0x200011f2                Zacc
+                0x200011f4                Xacc
+                0x200011f6                ZGforce
+ COMMON         0x200011f8       0x16 _build/datafilter.o
+                0x200011f8                Z
+                0x20001204                X
+ *fill*         0x2000120e        0x2 
+ COMMON         0x20001210        0xc _build/app_error.o
+                0x20001210                m_p_file_name
+                0x20001214                m_error_code
+                0x20001218                m_line_num
+ COMMON         0x2000121c       0x10 _build/queue.o
+                0x2000121c                xQueueRegistry
+ COMMON         0x2000122c        0x4 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+                0x2000122c                errno
+                0x20001230                . = ALIGN (0x4)
+                0x20001230                __bss_end__ = .
+
+.heap           0x20001230      0x800
+                0x20001230                __end__ = .
+                0x20001230                end = __end__
+ *(.heap*)
+ .heap          0x20001230      0x800 _build/gcc_startup_nrf51.o
+                0x20001230                __HeapBase
+                0x20001a30                __HeapLimit = .
+
+.stack_dummy    0x20001230      0x800
+ *(.stack*)
+ .stack         0x20001230      0x800 _build/gcc_startup_nrf51.o
+                0x20008000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x20007800                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x20008000                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+OUTPUT(_build/nrf51422_xxac.out elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x28
+ .ARM.attributes
+                0x00000000       0x1e /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crti.o
+ .ARM.attributes
+                0x0000001e       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x1b /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.attributes
+                0x00000065       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000091       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000000bd       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x000000e9       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000115       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000141       0x31 _build/main.o
+ .ARM.attributes
+                0x00000172       0x31 _build/datafilter.o
+ .ARM.attributes
+                0x000001a3       0x31 _build/os_timer.o
+ .ARM.attributes
+                0x000001d4       0x31 _build/os_thread.o
+ .ARM.attributes
+                0x00000205       0x31 _build/nrf_uartDriver.o
+ .ARM.attributes
+                0x00000236       0x31 _build/system_nrf51.o
+ .ARM.attributes
+                0x00000267       0x31 _build/app_error.o
+ .ARM.attributes
+                0x00000298       0x31 _build/nrf_drv_common.o
+ .ARM.attributes
+                0x000002c9       0x31 _build/nrf_drv_uart.o
+ .ARM.attributes
+                0x000002fa       0x31 _build/heap_1.o
+ .ARM.attributes
+                0x0000032b       0x31 _build/list.o
+ .ARM.attributes
+                0x0000035c       0x31 _build/port.o
+ .ARM.attributes
+                0x0000038d       0x31 _build/port_cmsis.o
+ .ARM.attributes
+                0x000003be       0x31 _build/port_cmsis_systick.o
+ .ARM.attributes
+                0x000003ef       0x31 _build/queue.o
+ .ARM.attributes
+                0x00000420       0x31 _build/tasks.o
+ .ARM.attributes
+                0x00000451       0x31 _build/timers.o
+ .ARM.attributes
+                0x00000482       0x31 _build/nrf_drv_clock.o
+ .ARM.attributes
+                0x000004b3       0x1b _build/gcc_startup_nrf51.o
+ .ARM.attributes
+                0x000004ce       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(addsf3.o)
+ .ARM.attributes
+                0x000004fa       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(mulsf3.o)
+ .ARM.attributes
+                0x00000526       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(fixsfsi.o)
+ .ARM.attributes
+                0x00000552       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(floatsisf.o)
+ .ARM.attributes
+                0x0000057e       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(muldf3.o)
+ .ARM.attributes
+                0x000005aa       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(fixdfsi.o)
+ .ARM.attributes
+                0x000005d6       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(floatsidf.o)
+ .ARM.attributes
+                0x00000602       0x1e /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x00000620       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-calloc.o)
+ .ARM.attributes
+                0x0000064c       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x00000678       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x000006a4       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-callocr.o)
+ .ARM.attributes
+                0x000006d0       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x000006fc       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x00000728       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000754       0x1c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000770       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000079c       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtend.o
+ .ARM.attributes
+                0x000007c8       0x1e /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/crtn.o
+ .ARM.attributes
+                0x000007e6       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(sbrk.o)
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e _build/main.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f _build/datafilter.o
+ .comment       0x0000006e       0x6f _build/os_timer.o
+ .comment       0x0000006e       0x6f _build/os_thread.o
+ .comment       0x0000006e       0x6f _build/nrf_uartDriver.o
+ .comment       0x0000006e       0x6f _build/system_nrf51.o
+ .comment       0x0000006e       0x6f _build/app_error.o
+ .comment       0x0000006e       0x6f _build/nrf_drv_common.o
+ .comment       0x0000006e       0x6f _build/nrf_drv_uart.o
+ .comment       0x0000006e       0x6f _build/heap_1.o
+ .comment       0x0000006e       0x6f _build/list.o
+ .comment       0x0000006e       0x6f _build/port.o
+ .comment       0x0000006e       0x6f _build/port_cmsis.o
+ .comment       0x0000006e       0x6f _build/port_cmsis_systick.o
+ .comment       0x0000006e       0x6f _build/queue.o
+ .comment       0x0000006e       0x6f _build/tasks.o
+ .comment       0x0000006e       0x6f _build/timers.o
+ .comment       0x0000006e       0x6f _build/nrf_drv_clock.o
+
+.debug_frame    0x00000000     0x2380
+ .debug_frame   0x00000000       0x28 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000028       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-init.o)
+ .debug_frame   0x00000054       0x20 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000074       0x20 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .debug_frame   0x00000094       0x50 _build/main.o
+ .debug_frame   0x000000e4       0x70 _build/datafilter.o
+ .debug_frame   0x00000154      0x10c _build/os_timer.o
+ .debug_frame   0x00000260      0x130 _build/os_thread.o
+ .debug_frame   0x00000390       0x70 _build/nrf_uartDriver.o
+ .debug_frame   0x00000400       0x80 _build/system_nrf51.o
+ .debug_frame   0x00000480       0x30 _build/app_error.o
+ .debug_frame   0x000004b0       0x94 _build/nrf_drv_common.o
+ .debug_frame   0x00000544      0x60c _build/nrf_drv_uart.o
+ .debug_frame   0x00000b50       0x88 _build/heap_1.o
+ .debug_frame   0x00000bd8       0xb0 _build/list.o
+ .debug_frame   0x00000c88       0x4c _build/port.o
+ .debug_frame   0x00000cd4      0x178 _build/port_cmsis.o
+ .debug_frame   0x00000e4c      0x208 _build/port_cmsis_systick.o
+ .debug_frame   0x00001054      0x390 _build/queue.o
+ .debug_frame   0x000013e4      0x734 _build/tasks.o
+ .debug_frame   0x00001b18      0x268 _build/timers.o
+ .debug_frame   0x00001d80      0x310 _build/nrf_drv_clock.o
+ .debug_frame   0x00002090       0x30 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(addsf3.o)
+ .debug_frame   0x000020c0       0x38 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(mulsf3.o)
+ .debug_frame   0x000020f8       0x20 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(fixsfsi.o)
+ .debug_frame   0x00002118       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(floatsisf.o)
+ .debug_frame   0x00002144       0x3c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(muldf3.o)
+ .debug_frame   0x00002180       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(fixdfsi.o)
+ .debug_frame   0x000021ac       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m/libgcc.a(floatsidf.o)
+ .debug_frame   0x000021d8       0x28 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-calloc.o)
+ .debug_frame   0x00002200       0x40 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-malloc.o)
+ .debug_frame   0x00002240       0x28 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00002268       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-callocr.o)
+ .debug_frame   0x00002294       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x000022c0       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x000022ec       0x2c /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00002318       0x48 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x00002360       0x20 /home/bart/work/tools/gcc-arm-none-eabi-5_2-2015q4/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(sbrk.o)
+
+.debug_info     0x00000000     0x78c6
+ .debug_info    0x00000000      0x286 _build/main.o
+ .debug_info    0x00000286      0x1a1 _build/datafilter.o
+ .debug_info    0x00000427      0x2ca _build/os_timer.o
+ .debug_info    0x000006f1      0x31a _build/os_thread.o
+ .debug_info    0x00000a0b      0x1a4 _build/nrf_uartDriver.o
+ .debug_info    0x00000baf      0x1ad _build/system_nrf51.o
+ .debug_info    0x00000d5c      0x244 _build/app_error.o
+ .debug_info    0x00000fa0      0x3c7 _build/nrf_drv_common.o
+ .debug_info    0x00001367     0x1453 _build/nrf_drv_uart.o
+ .debug_info    0x000027ba      0x17c _build/heap_1.o
+ .debug_info    0x00002936      0x29d _build/list.o
+ .debug_info    0x00002bd3       0xad _build/port.o
+ .debug_info    0x00002c80      0x6d7 _build/port_cmsis.o
+ .debug_info    0x00003357      0xa8d _build/port_cmsis_systick.o
+ .debug_info    0x00003de4      0xf1b _build/queue.o
+ .debug_info    0x00004cff     0x192f _build/tasks.o
+ .debug_info    0x0000662e      0xada _build/timers.o
+ .debug_info    0x00007108      0x7be _build/nrf_drv_clock.o
+
+.debug_abbrev   0x00000000     0x1d6c
+ .debug_abbrev  0x00000000      0x10a _build/main.o
+ .debug_abbrev  0x0000010a       0xd8 _build/datafilter.o
+ .debug_abbrev  0x000001e2      0x130 _build/os_timer.o
+ .debug_abbrev  0x00000312      0x128 _build/os_thread.o
+ .debug_abbrev  0x0000043a       0xa3 _build/nrf_uartDriver.o
+ .debug_abbrev  0x000004dd       0xf2 _build/system_nrf51.o
+ .debug_abbrev  0x000005cf      0x118 _build/app_error.o
+ .debug_abbrev  0x000006e7      0x12a _build/nrf_drv_common.o
+ .debug_abbrev  0x00000811      0x2a4 _build/nrf_drv_uart.o
+ .debug_abbrev  0x00000ab5       0xef _build/heap_1.o
+ .debug_abbrev  0x00000ba4       0xbf _build/list.o
+ .debug_abbrev  0x00000c63       0x43 _build/port.o
+ .debug_abbrev  0x00000ca6      0x34d _build/port_cmsis.o
+ .debug_abbrev  0x00000ff3      0x2f9 _build/port_cmsis_systick.o
+ .debug_abbrev  0x000012ec      0x2cf _build/queue.o
+ .debug_abbrev  0x000015bb      0x36c _build/tasks.o
+ .debug_abbrev  0x00001927      0x235 _build/timers.o
+ .debug_abbrev  0x00001b5c      0x210 _build/nrf_drv_clock.o
+
+.debug_aranges  0x00000000      0x9a0
+ .debug_aranges
+                0x00000000       0x28 _build/main.o
+ .debug_aranges
+                0x00000028       0x30 _build/datafilter.o
+ .debug_aranges
+                0x00000058       0x58 _build/os_timer.o
+ .debug_aranges
+                0x000000b0       0x60 _build/os_thread.o
+ .debug_aranges
+                0x00000110       0x30 _build/nrf_uartDriver.o
+ .debug_aranges
+                0x00000140       0x38 _build/system_nrf51.o
+ .debug_aranges
+                0x00000178       0x20 _build/app_error.o
+ .debug_aranges
+                0x00000198       0x38 _build/nrf_drv_common.o
+ .debug_aranges
+                0x000001d0      0x1a0 _build/nrf_drv_uart.o
+ .debug_aranges
+                0x00000370       0x38 _build/heap_1.o
+ .debug_aranges
+                0x000003a8       0x40 _build/list.o
+ .debug_aranges
+                0x000003e8       0x30 _build/port.o
+ .debug_aranges
+                0x00000418       0x78 _build/port_cmsis.o
+ .debug_aranges
+                0x00000490       0x98 _build/port_cmsis_systick.o
+ .debug_aranges
+                0x00000528       0xf8 _build/queue.o
+ .debug_aranges
+                0x00000620      0x1e8 _build/tasks.o
+ .debug_aranges
+                0x00000808       0xb0 _build/timers.o
+ .debug_aranges
+                0x000008b8       0xe8 _build/nrf_drv_clock.o
+
+.debug_ranges   0x00000000      0x880
+ .debug_ranges  0x00000000       0x18 _build/main.o
+ .debug_ranges  0x00000018       0x20 _build/datafilter.o
+ .debug_ranges  0x00000038       0x48 _build/os_timer.o
+ .debug_ranges  0x00000080       0x50 _build/os_thread.o
+ .debug_ranges  0x000000d0       0x20 _build/nrf_uartDriver.o
+ .debug_ranges  0x000000f0       0x28 _build/system_nrf51.o
+ .debug_ranges  0x00000118       0x10 _build/app_error.o
+ .debug_ranges  0x00000128       0x28 _build/nrf_drv_common.o
+ .debug_ranges  0x00000150      0x190 _build/nrf_drv_uart.o
+ .debug_ranges  0x000002e0       0x28 _build/heap_1.o
+ .debug_ranges  0x00000308       0x30 _build/list.o
+ .debug_ranges  0x00000338       0x20 _build/port.o
+ .debug_ranges  0x00000358       0x68 _build/port_cmsis.o
+ .debug_ranges  0x000003c0       0x88 _build/port_cmsis_systick.o
+ .debug_ranges  0x00000448       0xe8 _build/queue.o
+ .debug_ranges  0x00000530      0x1d8 _build/tasks.o
+ .debug_ranges  0x00000708       0xa0 _build/timers.o
+ .debug_ranges  0x000007a8       0xd8 _build/nrf_drv_clock.o
+
+.debug_macro    0x00000000     0xcd72
+ .debug_macro   0x00000000      0x1ec _build/main.o
+ .debug_macro   0x000001ec      0x838 _build/main.o
+ .debug_macro   0x00000a24       0x22 _build/main.o
+ .debug_macro   0x00000a46       0x22 _build/main.o
+ .debug_macro   0x00000a68       0x44 _build/main.o
+ .debug_macro   0x00000aac       0xfd _build/main.o
+ .debug_macro   0x00000ba9       0x22 _build/main.o
+ .debug_macro   0x00000bcb      0x1df _build/main.o
+ .debug_macro   0x00000daa       0x58 _build/main.o
+ .debug_macro   0x00000e02       0x35 _build/main.o
+ .debug_macro   0x00000e37       0x9c _build/main.o
+ .debug_macro   0x00000ed3       0x16 _build/main.o
+ .debug_macro   0x00000ee9      0x10e _build/main.o
+ .debug_macro   0x00000ff7       0x86 _build/main.o
+ .debug_macro   0x0000107d       0x52 _build/main.o
+ .debug_macro   0x000010cf       0x16 _build/main.o
+ .debug_macro   0x000010e5       0x43 _build/main.o
+ .debug_macro   0x00001128      0x187 _build/main.o
+ .debug_macro   0x000012af      0x34c _build/main.o
+ .debug_macro   0x000015fb       0x16 _build/main.o
+ .debug_macro   0x00001611       0x29 _build/main.o
+ .debug_macro   0x0000163a       0x16 _build/main.o
+ .debug_macro   0x00001650       0x35 _build/main.o
+ .debug_macro   0x00001685       0x1c _build/main.o
+ .debug_macro   0x000016a1       0x10 _build/main.o
+ .debug_macro   0x000016b1       0x10 _build/main.o
+ .debug_macro   0x000016c1       0x22 _build/main.o
+ .debug_macro   0x000016e3       0x3a _build/main.o
+ .debug_macro   0x0000171d       0x10 _build/main.o
+ .debug_macro   0x0000172d       0x40 _build/main.o
+ .debug_macro   0x0000176d       0x65 _build/main.o
+ .debug_macro   0x000017d2       0x16 _build/main.o
+ .debug_macro   0x000017e8      0x197 _build/main.o
+ .debug_macro   0x0000197f       0x67 _build/datafilter.o
+ .debug_macro   0x000019e6      0x246 _build/os_timer.o
+ .debug_macro   0x00001c2c       0x4a _build/os_timer.o
+ .debug_macro   0x00001c76      0x19c _build/os_timer.o
+ .debug_macro   0x00001e12       0x22 _build/os_timer.o
+ .debug_macro   0x00001e34       0x3a _build/os_timer.o
+ .debug_macro   0x00001e6e       0x1f _build/os_timer.o
+ .debug_macro   0x00001e8d      0x242 _build/os_timer.o
+ .debug_macro   0x000020cf      0x1d2 _build/os_timer.o
+ .debug_macro   0x000022a1     0x745a _build/os_timer.o
+ .debug_macro   0x000096fb      0x976 _build/os_timer.o
+ .debug_macro   0x0000a071       0x1c _build/os_timer.o
+ .debug_macro   0x0000a08d       0x5e _build/os_timer.o
+ .debug_macro   0x0000a0eb       0x3d _build/os_timer.o
+ .debug_macro   0x0000a128      0x118 _build/os_timer.o
+ .debug_macro   0x0000a240       0xbc _build/os_timer.o
+ .debug_macro   0x0000a2fc       0x10 _build/os_timer.o
+ .debug_macro   0x0000a30c       0x1f _build/os_timer.o
+ .debug_macro   0x0000a32b      0x322 _build/os_timer.o
+ .debug_macro   0x0000a64d       0xc0 _build/os_timer.o
+ .debug_macro   0x0000a70d       0x8c _build/os_timer.o
+ .debug_macro   0x0000a799       0x91 _build/os_timer.o
+ .debug_macro   0x0000a82a      0x22d _build/os_thread.o
+ .debug_macro   0x0000aa57      0x2d2 _build/nrf_uartDriver.o
+ .debug_macro   0x0000ad29       0x16 _build/nrf_uartDriver.o
+ .debug_macro   0x0000ad3f       0x97 _build/nrf_uartDriver.o
+ .debug_macro   0x0000add6       0xf6 _build/nrf_uartDriver.o
+ .debug_macro   0x0000aecc       0x28 _build/nrf_uartDriver.o
+ .debug_macro   0x0000aef4       0x22 _build/nrf_uartDriver.o
+ .debug_macro   0x0000af16       0x17 _build/nrf_uartDriver.o
+ .debug_macro   0x0000af2d       0x8e _build/nrf_uartDriver.o
+ .debug_macro   0x0000afbb       0x16 _build/nrf_uartDriver.o
+ .debug_macro   0x0000afd1       0x76 _build/nrf_uartDriver.o
+ .debug_macro   0x0000b047      0x13b _build/nrf_uartDriver.o
+ .debug_macro   0x0000b182       0x10 _build/nrf_uartDriver.o
+ .debug_macro   0x0000b192      0x263 _build/nrf_uartDriver.o
+ .debug_macro   0x0000b3f5       0x22 _build/nrf_uartDriver.o
+ .debug_macro   0x0000b417       0x4c _build/nrf_uartDriver.o
+ .debug_macro   0x0000b463       0xc7 _build/system_nrf51.o
+ .debug_macro   0x0000b52a      0x113 _build/app_error.o
+ .debug_macro   0x0000b63d       0xeb _build/nrf_drv_common.o
+ .debug_macro   0x0000b728      0x169 _build/nrf_drv_uart.o
+ .debug_macro   0x0000b891      0x16d _build/nrf_drv_uart.o
+ .debug_macro   0x0000b9fe       0x10 _build/nrf_drv_uart.o
+ .debug_macro   0x0000ba0e       0x28 _build/nrf_drv_uart.o
+ .debug_macro   0x0000ba36      0x235 _build/heap_1.o
+ .debug_macro   0x0000bc6b      0x214 _build/list.o
+ .debug_macro   0x0000be7f      0x16f _build/port.o
+ .debug_macro   0x0000bfee      0x199 _build/port_cmsis.o
+ .debug_macro   0x0000c187      0x1da _build/port_cmsis_systick.o
+ .debug_macro   0x0000c361       0x22 _build/port_cmsis_systick.o
+ .debug_macro   0x0000c383       0x10 _build/port_cmsis_systick.o
+ .debug_macro   0x0000c393      0x286 _build/queue.o
+ .debug_macro   0x0000c619       0xb0 _build/queue.o
+ .debug_macro   0x0000c6c9      0x2c9 _build/tasks.o
+ .debug_macro   0x0000c992       0x16 _build/tasks.o
+ .debug_macro   0x0000c9a8      0x251 _build/timers.o
+ .debug_macro   0x0000cbf9      0x179 _build/nrf_drv_clock.o
+
+.debug_line     0x00000000     0x76bd
+ .debug_line    0x00000000      0x3e0 _build/main.o
+ .debug_line    0x000003e0      0x271 _build/datafilter.o
+ .debug_line    0x00000651      0x63d _build/os_timer.o
+ .debug_line    0x00000c8e      0x640 _build/os_thread.o
+ .debug_line    0x000012ce      0x6fe _build/nrf_uartDriver.o
+ .debug_line    0x000019cc      0x35a _build/system_nrf51.o
+ .debug_line    0x00001d26      0x40a _build/app_error.o
+ .debug_line    0x00002130      0x3ef _build/nrf_drv_common.o
+ .debug_line    0x0000251f      0xa34 _build/nrf_drv_uart.o
+ .debug_line    0x00002f53      0x5c9 _build/heap_1.o
+ .debug_line    0x0000351c      0x5d5 _build/list.o
+ .debug_line    0x00003af1      0x4e0 _build/port.o
+ .debug_line    0x00003fd1      0x5f8 _build/port_cmsis.o
+ .debug_line    0x000045c9      0x7f7 _build/port_cmsis_systick.o
+ .debug_line    0x00004dc0      0xa1a _build/queue.o
+ .debug_line    0x000057da     0x101f _build/tasks.o
+ .debug_line    0x000067f9      0x7a1 _build/timers.o
+ .debug_line    0x00006f9a      0x723 _build/nrf_drv_clock.o
+
+.debug_str      0x00000000    0x3d434
+ .debug_str     0x00000000     0x6b56 _build/main.o
+                               0x6d7e (size before relaxing)
+ .debug_str     0x00006b56       0x9e _build/datafilter.o
+                               0x3117 (size before relaxing)
+ .debug_str     0x00006bf4    0x2f844 _build/os_timer.o
+                              0x35448 (size before relaxing)
+ .debug_str     0x00036438      0x101 _build/os_thread.o
+                              0x34cfb (size before relaxing)
+ .debug_str     0x00036539     0x227e _build/nrf_uartDriver.o
+                              0x349f6 (size before relaxing)
+ .debug_str     0x000387b7      0x120 _build/system_nrf51.o
+                              0x2ecb7 (size before relaxing)
+ .debug_str     0x000388d7       0xb3 _build/app_error.o
+                              0x30510 (size before relaxing)
+ .debug_str     0x0003898a      0x29a _build/nrf_drv_common.o
+                              0x2f266 (size before relaxing)
+ .debug_str     0x00038c24      0xdec _build/nrf_drv_uart.o
+                              0x3127f (size before relaxing)
+ .debug_str     0x00039a10      0x14f _build/heap_1.o
+                              0x34c5c (size before relaxing)
+ .debug_str     0x00039b5f      0x152 _build/list.o
+                              0x346ca (size before relaxing)
+ .debug_str     0x00039cb1       0x50 _build/port.o
+                              0x322f4 (size before relaxing)
+ .debug_str     0x00039d01      0x2f4 _build/port_cmsis.o
+                              0x3280b (size before relaxing)
+ .debug_str     0x00039ff5      0x5ae _build/port_cmsis_systick.o
+                              0x33892 (size before relaxing)
+ .debug_str     0x0003a5a3     0x1105 _build/queue.o
+                              0x35e62 (size before relaxing)
+ .debug_str     0x0003b6a8     0x1006 _build/tasks.o
+                              0x36658 (size before relaxing)
+ .debug_str     0x0003c6ae      0x4af _build/timers.o
+                              0x3638c (size before relaxing)
+ .debug_str     0x0003cb5d      0x8d7 _build/nrf_drv_clock.o
+                              0x30aa8 (size before relaxing)

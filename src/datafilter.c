@@ -19,6 +19,7 @@
 
 #include "datafilter.h"
 
+
 static float timeDiff;
 
 typedef struct {
@@ -42,7 +43,9 @@ static uint16_t calcDistance() {
 }
 
 void setTimeDiff(uint16_t freq) {
-	timeDiff = 1 / freq;
+	//timeDiff = 1 / freq;
+
+
 }
 
 int16_t calcSpeed(int16_t Xacc, int16_t Zacc, int16_t *distance) {
