@@ -16,11 +16,11 @@
 
 #include <stdbool.h>
 #include <stdint.h>
+#include "os_thread.h"
 
 #include "datafilter.h"
 
-
-static float timeDiff;
+static uint32_t timeDiff;
 
 typedef struct {
 
@@ -41,14 +41,12 @@ static uint16_t calcDistance() {
 	Z.curDis = (timeDiff * Z.curSpeed) + Z.prevDis;
 	return Z.curDis;
 }
-
-void setTimeDiff(uint16_t freq) {
-	//timeDiff = 1 / freq;
-
-
+void setTimeDiff() {
+    timeDiff = os_timerGetMs();
 }
 
 int16_t calcSpeed(int16_t Xacc, int16_t Zacc, int16_t *distance) {
+    timeDiff = os_timerGetMs() - timeDiff;
 	X.curAcc = Xacc;
 	Z.curAcc = Zacc;
 
@@ -61,4 +59,5 @@ int16_t calcSpeed(int16_t Xacc, int16_t Zacc, int16_t *distance) {
 	return X.curSpeed;
 
 }
+
 

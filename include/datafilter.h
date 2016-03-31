@@ -27,16 +27,15 @@ extern "C" {
 // X is the forwards motion
 
 /**
- * sets the time between each sample.
- * @param freq is the sample frequency.
+ * sets the first measure point in system time.
  */
-void setTimeDiff(uint16_t freq);
+void setTimeDiff();
 
 /**
- * calculates the forward speed and the hight of the shoe
+ * calculates the forward speed and the height of the shoe
  * @param Xacc is the forward acceleration
  * @param Zacc is the upwards acceleration
- * @param[out] distance is the hight of the shoe
+ * @param[out] distance is the height of the shoe
  * @return the forward speed
  */
 int16_t calcSpeed(int16_t Xacc, int16_t Zacc, int16_t *distance);

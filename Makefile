@@ -47,6 +47,7 @@ endif
 INC_PATHS  += -I$(abspath $(PROJ_HOME)/config)
 INC_PATHS  += -I$(abspath $(PROJ_HOME)/include)
 C_SOURCE_FILES += $(abspath $(PROJ_HOME)/src/datafilter.c)
+C_SOURCE_FILES += $(abspath $(PROJ_HOME)/src/datafilterFunctions.c)
 #FreeRTOS
 C_SOURCE_FILES += $(abspath $(SDK_ROOT)/apps/nrf_freertos/src/os_timer.c)
 C_SOURCE_FILES += $(abspath $(SDK_ROOT)/apps/nrf_freertos/src/os_thread.c)
@@ -54,6 +55,10 @@ INC_PATHS  += -I$(abspath $(SDK_ROOT)/apps/nrf_freertos/include)
 #UART support
 C_SOURCE_FILES += $(abspath $(SDK_ROOT)/apps/nrf_uart/src/nrf_uartDriver.c)
 INC_PATHS  += -I$(abspath $(SDK_ROOT)/apps/nrf_uart/include)
+##Accelerometer
+C_SOURCE_FILES += $(abspath $(SDK_ROOT)/apps/nrf_mma8453q/src/nrf_mma8453q.c)
+INC_PATHS	   += -I$(abspath $(SDK_ROOT)/apps/nrf_mma8453q/include)
+
 
 #source common to all targets
 C_SOURCE_FILES += \
@@ -78,6 +83,7 @@ $(abspath $(SDK_ROOT)/external/freertos/source/queue.c) \
 $(abspath $(SDK_ROOT)/external/freertos/source/tasks.c) \
 $(abspath $(SDK_ROOT)/external/freertos/source/timers.c) \
 $(abspath $(SDK_ROOT)/components/drivers_nrf/clock/nrf_drv_clock.c) \
+$(abspath $(SDK_ROOT)/components/drivers_nrf/twi_master/nrf_drv_twi.c) \
 
 
 #assembly files common to all targets
@@ -103,6 +109,8 @@ INC_PATHS += -I$(abspath $(SDK_ROOT)/external/freertos/source/include)
 INC_PATHS += -I$(abspath $(SDK_ROOT)/external/freertos/config)
 INC_PATHS += -I$(abspath $(SDK_ROOT)/external/freertos/portable/CMSIS/nrf51)
 INC_PATHS += -I$(abspath $(SDK_ROOT)/external/freertos/portable/GCC/nrf51)
+INC_PATHS += -I$(abspath $(SDK_ROOT)/components/drivers_nrf/twi_master)
+
 
 OBJECT_DIRECTORY = _build
 LISTING_DIRECTORY = $(OBJECT_DIRECTORY)
