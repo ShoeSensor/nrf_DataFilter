@@ -10,7 +10,7 @@
 
 
 /**
- * Initializes the data filter by setting
+ * @brief Initializes the data filter by setting
  * the first measure point in system time.
  */
 void datafilter_init();
