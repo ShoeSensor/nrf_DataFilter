@@ -14,6 +14,19 @@
  * limitations under the License.
  */
 
+
+
+/**
+ * @defgroup lib Data filter
+ * @file
+ * @defgroup lib_df Data filter
+ * @{
+ * @ingroup lib
+ *
+ * @brief Data filter to filter out un important accelerometer data.
+ *
+ */
+
 #ifndef DATAFILTER_H
 #define	DATAFILTER_H
 
