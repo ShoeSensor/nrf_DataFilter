@@ -27,12 +27,12 @@ extern "C" {
 // X is the forwards motion
 
 /**
- * sets the first measure point in system time.
+ * @brief sets the first measure point in system time.
  */
 void setTimeDiff();
 
 /**
- * calculates the forward speed and the height of the shoe
+ * @brief calculates the forward speed and the height of the shoe
  * @param Xacc is the forward acceleration
  * @param Zacc is the upwards acceleration
  * @param[out] distance is the height of the shoe
